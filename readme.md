@@ -1,4 +1,13 @@
-# How This Phase Works
+# Phase 2
+
+## Table of Contents
+
+1. [How this Phase Works](#how-this-phase-works)
+2. [Week By Week Breakdown](#wek-by-week-breakdown)
+3. [A Day In The Life](#a-day-in-the-life)
+4. [What We Work On](#what-do-we-work-on)
+
+## How This Phase Works
 Phase 2 is broken into three weeks with the following themes:
 
 * Testing and Simple Web Applications
