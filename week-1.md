@@ -13,7 +13,7 @@
    project
 6. Follow part 1 of the [Singing with
    Sinatra](http://net.tutsplus.com/tutorials/ruby/singing-with-sinatra/)
-7. Read this guide to [pull
-   requests](https://help.github.com/articles/using-pull-requests): Submit a
-   pull request to this repository which adds 'your-name.md' to the boots
-   directory.
+7. Read githubs guide to [pull
+   requests](https://help.github.com/articles/using-pull-requests)
+8. Submit a pull request to this repository which adds 'your-name.md' to the
+   boots directory.
