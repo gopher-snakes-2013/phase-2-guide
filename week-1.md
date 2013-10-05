@@ -11,9 +11,11 @@
 5. Log in to your new team treehouse account, and begin the [Build a Simple
    Website](http://teamtreehouse.com/library/websites/build-a-simple-website)
    project
-6. Follow part 1 of the [Singing with
+6. Work through level 1 and 2 of this
+   [devtools course](https://www.codeschool.com/courses/discover-devtools)
+7. Follow part 1 of the [Singing with
    Sinatra](http://net.tutsplus.com/tutorials/ruby/singing-with-sinatra/)
-7. Read githubs guide to [pull
+8. Read githubs guide to [pull
    requests](https://help.github.com/articles/using-pull-requests)
-8. Submit a pull request to this repository which adds 'your-name.md' to the
+9. Submit a pull request to this repository which adds 'your-name.md' to the
    boots directory.
