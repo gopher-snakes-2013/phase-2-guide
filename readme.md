@@ -44,7 +44,8 @@ use AJAX, background jobs, OAuth, and other APIs.
 ## A Day In The Life
 
 ### Mornings
-On weekdays we meet in the meadow for search inside yourself at 9AM.
+On weekdays we meet in the meadow for [emotional intellienge
+training](#emotional-intelligence) at 9AM.
 
 After search inside yourself, boots:
 
@@ -88,6 +89,12 @@ Group projects are only to be worked on until 6~7pm. You will not 'finish' your
 group project. There is always more to do, more enhancements to be made, more
 features to be added, and more bugs to fix. This is why there is a 7PM hard
 stop.
+
+
+### Emotional Intelligence
+A key part of being an exceptional junior developer is sensitivity to your code,
+yourself and the people around you. Emotional intelligence training will help
+you become more self aware of how you learn and engage with teams.
 
 ### Lightning Talks
 Lightning talks are 5 minutes where you answer a single question or discuss a
