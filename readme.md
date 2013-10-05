@@ -15,8 +15,8 @@ Phase 2 is broken into three weeks with the following themes:
 * Advanced Web Application Techniques
 
 Each day looks pretty much the same:
-* Mornings pair on the [pair challenge](#pair-challenges)
-* Afternoons teams work on [#group-projects](projects)
+* Mornings pair on a [challenge](#pair-challenges)
+* Afternoons teams work on [projects](#group-projects)
 * Evenings you [optimize your learning](#optimizing-your-learning)
 
 For more information, peruse the [week by week
