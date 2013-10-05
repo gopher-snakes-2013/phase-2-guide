@@ -1,5 +1,6 @@
 # Phase 2 Week 1
 1. [Prep](#prep)
+2. [Learning Objectives](week-1/learning-objectives.md)
 
 ## Prep
 
