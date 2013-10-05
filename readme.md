@@ -15,9 +15,9 @@ Phase 2 is broken into three weeks with the following themes:
 * Advanced Web Application Techniques
 
 Each day works in pretty much the same way:
-* Mornings are for pairing and preparation
-* Afternoons are for group projects
-* Evenings are for optimizing your learning
+* Mornings pair on the [pair challenge](#pair-challenges)
+* Afternoons teams work on [#group-projects](projects)
+* Evenings you [optimize your learning](#optimizing-your-learning)
 
 For more information, peruse the [week by week
 breakdown](#week-by-week-breakdown), the [day in the
@@ -44,29 +44,44 @@ use AJAX, background jobs, OAuth, and other APIs.
 ## A Day In The Life
 
 ### Mornings
-On weekdays we meet in the meadow for standup at 9AM.
+On weekdays we meet in the meadow for search inside yourself at 9AM.
 
-After standup, boots are encouraged to:
+After search inside yourself, boots:
 
-1. Work through the morning challenge.
+1. Work through the [pair challenge](#pair-challenges).
 2. Prepare their afternoon [lightning talk](#lightning-talks).
-3. Work on their group projects.
 
 Mornings may include an optional lecture on a specific topic.
 
 ### Afternoons
-Monday - Friday at 2 PM we meet in the cave for lightning talks. Lightning talks
-are ~5 minutes long, followed by 5 minutes for discussion.
+Monday - Friday at 2 PM we meet in the cave for [lightning
+talks](#lightning-talks).
 
-After lightning talks, teams work on [group projects](#group-projects). Teams
-should stop working on projects at 6 PM and must stop work at 7PM.
+After lightning talks we have team standup. Each team answers the following
+questions:
+
+1. What did your team build yesterday?
+2. What are you planning to build today?
+3. What is slowing you down?
+
+After standup, teams work on [group projects](#group-projects). Teams wind down
+their work on projects at 6PM and must stop work by 7PM.
 
 ### Evenings
-At 6 PM, you should begin to wrap up group projects for the day.  After 7PM, you
-should no longer be working on your group project. Instead you should spend the
-time [optimizing your learning.](#optimizing-your-learning)
+We have another standup at 5:30. Each boot answers the following questions:
+
+1. What did you wind up doing yesterday evening?
+2. What are you planning to do this evening?
+3. What "Aha!" moments did you have in the last 24 hours?
+
+After standup, you should finish your group project work for the day and begin
+[optimizing your learning.](#optimizing-your-learning).
 
 ## What Do We Work On?
+
+### Pair Challenges
+Pair challenges are handed out every morning, and are intended to give an
+isolated look at at the technical topics we'll be covering.
 
 ### Group Projects
 Group projects are only to be worked on until 6~7pm. You will not 'finish' your
