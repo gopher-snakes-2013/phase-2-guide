@@ -38,6 +38,7 @@
 1. [Testing with Rspec](http://net.tutsplus.com/tutorials/ruby/ruby-for-newbies-testing-with-rspec/)
 1. [Build a Simple Website](http://teamtreehouse.com/library/websites/build-a-simple-website)
 1. [Learn HTML and CSS](http://teamtreehouse.com/learning-adventures/learn-html-and-css)
+1. [A Beginners Guide to HTML and CSS](http://learn.shayhowe.com/)
 
 ### Level 2
 
@@ -45,3 +46,4 @@
 1. [Deploying Sinatra Apps to Heroku](http://cloud.dzone.com/articles/deploying-sinatra-app-heroku-0)
 1. [Testing Web Apps with Capybara and Sinatra](http://net.tutsplus.com/tutorials/ruby/ruby-for-newbies-testing-web-apps-with-capybara-and-cucumber/)
 1. [exercism.io JavaScript](exercism.io/setup/javascript)
+1. [An Advanced Guide to HTML and CSS](http://learn.shayhowe.com/)
