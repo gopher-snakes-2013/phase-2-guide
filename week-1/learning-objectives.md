@@ -1,4 +1,4 @@
-# Phase 2 Week 1 Learning Objctives
+# Phase 2 Week 1 Learning Objectives
 
 _WARNING_ It's important to realize that you are likely intimidated by this
 scary list. Keep in mind that all you should be worrying about is the 1 thumb
