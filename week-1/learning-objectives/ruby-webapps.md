@@ -26,6 +26,8 @@ Below is a set of expected capabilities:
 1. I've handled forms with [nested query
    params](http://codefol.io/posts/9-How-Does-Rack-Parse-Query-Params-With-parse-nested-query)
 1. I've configured my app to use different databases in test and development
+1. I've used [bcrypt](http://bcrypt-ruby.rubyforge.org/) to encrypt passwords to
+   keep them secret even from people who have access to the database.
 1. I've used partials and passed them local variables
 1. I've written a program that uses
    [Socket](http://www.ruby-doc.org/stdlib-2.0.0/libdoc/socket/rdoc/Socket.html)^
