@@ -1,7 +1,7 @@
 # Phase 2 Week 1
 1. [Prep](#prep)
 2. [Learning Objectives](week-1/learning-objectives.md)
-3. [Group Projects](#group-projects)
+3. [Group Projects](week-1/group-projects)
 4. [Side Project Ideas](#crazy-side-project-ideas)
 4. [Tutorials](#reasonable-tutorials)
 
@@ -23,17 +23,6 @@
    requests](https://help.github.com/articles/using-pull-requests)
 9. Submit a pull request to this repository which adds 'your-name.md' to the
    boots directory.
-
-## Group Projects
-Each of the projects have been broken up into releases. They should be deployed
-to heroku once each of the features described in the release are complete. Once
-you have finished all of the named releases, feel free to define your own
-releases from the provided features.
-
-* An [Online Discussion Forum](week-1/group-projects/online-discussion-forum.md)
-* A [Social Network](week-1/group-projects/social-network.md)
-* An [Online Survey System](week-1/group-projects/survey-system.md)
-
 
 ## Crazy Side Project Ideas
 1. Make a website where you put in a url and it tells you how sad or happy the page is
