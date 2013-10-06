@@ -5,7 +5,7 @@
 1. [Debugging](learning-objectives/debugging.md)
 1. [Ruby Webapps](learning-objectives/ruby-webapps.md)
 1. [ActiveRecord](learning-objectives/activerecord.md)
-1. [HTML and CSS](#html-and-css)
+1. [HTML and CSS](learning-objectives/html-and-css.md)
 
 ## Self Evaluation Card
 
@@ -20,7 +20,3 @@ learning objectives:
 | Coders Mindset | Testing & TDD | Debugging | Ruby Webapps | ActiveRecord | HTML & CSS |
 | -------------- | ------------- | --------- | ------------ | ------------ | ---------- |
 |                |               |           |              |              |            |
-
-## HTML & CSS
-
-
