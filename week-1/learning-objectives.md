@@ -9,9 +9,8 @@
 
 ## Self Evaluation Card
 
-Good programmers are accurate self assessors. Spend a few minutes every day
-thinking about where you stand up the current weeks learning objectives. To do
-so:
+Spend a few minutes every day thinking about how you're doing with the weeks
+learning objectives:
 
 1. Copy and paste this score card into your `boots/your-name.md` file
 2. Indicate where you feel you stand in each of the learning objectives.
