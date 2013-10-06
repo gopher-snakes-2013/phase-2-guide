@@ -30,3 +30,4 @@ releases from the provided features.
 
 * An [Online Discussion Forum](week-1/group-projects/online-discussion-forum.md)
 * A [Social Network](week-1/group-projects/social-network.md)
+* An [Online Survey System](week-1/group-projects/survey-system.md)
