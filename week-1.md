@@ -29,3 +29,4 @@ you have finished all of the named releases, feel free to define your own
 releases from the provided features.
 
 * An [Online Discussion Forum](week-1/group-projects/online-discussion-forum.md)
+* A [Social Network](week-1/group-projects/social-network.md)
