@@ -1,5 +1,10 @@
 # Phase 2 Week 1 Learning Objctives
 
+_WARNING_ It's important to realize that you are likely intimidated by this
+scary list. Keep in mind that all you should be worrying about is the 1 thumb
+stuff until you either: find something incredibly interesting *or* start to feel
+bored. Then go for those 2 or 3 thumb objectives!
+
 1. [Coders Mindset](learning-objectives/coders-mindset.md)
 1. [Testing and TDD](learning-objectives/testing-and-tdd.md)
 1. [Debugging](learning-objectives/debugging.md)
