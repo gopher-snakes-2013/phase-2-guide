@@ -2,7 +2,7 @@
 
 1. [Coders Mindset](learning-objectives/coders-mindset.md)
 1. [Testing and TDD](learning-objectives/testing-and-tdd.md)
-1. [Debugging](#debugging)
+1. [Debugging](learning-objectives/debugging.md)
 1. [Ruby Webapps](#ruby-webapps)
 1. [ActiveRecord](#activerecord)
 1. [HTML and CSS](#html-and-css)
@@ -22,10 +22,6 @@ so:
 | -------------- | ------------- | --------- | ------------ | ------------ | ---------- |
 |                |               |           |              |              |            |
 
-## Debugging
-1. I create hypothesis about making the code do what I want before typing the
-   code.
-1. I test my hypothesis with code before I google or ask for help
 
 ## Ruby Webapps
 
