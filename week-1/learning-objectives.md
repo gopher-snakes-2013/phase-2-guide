@@ -3,7 +3,7 @@
 1. [Coders Mindset](learning-objectives/coders-mindset.md)
 1. [Testing and TDD](learning-objectives/testing-and-tdd.md)
 1. [Debugging](learning-objectives/debugging.md)
-1. [Ruby Webapps](#ruby-webapps)
+1. [Ruby Webapps](learning-objectives/ruby-webapps.md)
 1. [ActiveRecord](#activerecord)
 1. [HTML and CSS](#html-and-css)
 
@@ -21,9 +21,6 @@ so:
 | Coders Mindset | Testing & TDD | Debugging | Ruby Webapps | ActiveRecord | HTML & CSS |
 | -------------- | ------------- | --------- | ------------ | ------------ | ---------- |
 |                |               |           |              |              |            |
-
-
-## Ruby Webapps
 
 ## ActiveRecord
 
