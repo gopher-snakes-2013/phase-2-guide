@@ -8,4 +8,4 @@ We are all named Jad.
 * Jad Trostli (Daniel)
 
 ### Team Projects
-This is all of our projects
+This is all of our projects 
