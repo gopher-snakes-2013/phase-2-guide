@@ -1,5 +1,6 @@
-quirky thing I realized about myself this weekend - 
- The two neighborhoods/cities I have live the longest in my adult life are
- Berkeley and the Haight. However || In spite of ||  Because of this...I
- really don't like tie-dye. Hey I don't mind others wearing it most of the
- time, but the idea of wearing it myself really irks me.
+
+Phase 2 Day 1 October 7
+My hand is raised because I have so many questions. Break it down and move forward...
+| Coders Mindset | Testing & TDD | Debugging   | Ruby Webapps | ActiveRecord | HTML & CSS   |
+| -------------- | ------------- | ---------   | ------------ | ------------ | ----------   |
+|  :raised_hand: | :raised_hand: |:raised_hand:|:raised_hand: | :raised_hand:| :raised_hand:|
