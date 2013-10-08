@@ -14,4 +14,4 @@ learning objectives:
 | -------------- | ------------- | --------- | ------------ | ------------ | ---------- |
 |   :+1: | :sweat_drops: :disappointed_relieved: |  :+1:(0.2) |  :fearful:  | :cold_sweat:  |  :pensive:   |
 
-long way to go... there's so much there! gotta timebox and dive in. gonna start with sinatra!
+long way to go... there's so much there! gotta timebox and dive in. gonna start with sinatra.
