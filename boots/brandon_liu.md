@@ -4,10 +4,11 @@ _aka B-dog_
 
 Week 1 Day 1 Monday
 
-| Coders Mindset |	Testing & TDD |	Debugging |	Ruby Webapps | ActiveRecord	| HTML & CSS |
-going ok			wip				wip		almost have 		wip				wip
-											a handle on 
-											sinatra
+| Coders Mindset |  Testing & TDD |  Debugging | Ruby Webapps | ActiveRecord | HTML & CSS |
+|----------------|----------------|------------|--------------|--------------|------------|
+|      0         |       0        |    0       |       0      |      +0.5    |    0       |
+
+Monday is dead to me. I kinda get how sinatra works but maybe not.
 
 Week 1 Day 2 Tuesday
 
