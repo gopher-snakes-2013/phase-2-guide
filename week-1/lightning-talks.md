@@ -14,6 +14,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Tuesday
 
 ## Wednesday
+* Steven Nugent - What does 'semantic markup' mean?
 
 ## Thursday
 
@@ -40,7 +41,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * What is the different ways to use the css position property?
 * What makes a good test?
 * What is rack anyway?
-* What does 'semantic markup' mean?
 * When do I use test doubles?
 * How do I deploy a sinatra app to heroku?
 * How can I use $LOAD\_PATH to avoid using require\_relative?
