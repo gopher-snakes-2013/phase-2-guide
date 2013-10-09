@@ -24,6 +24,8 @@ Ryan Hedges - Code Kata
 
 ## Thursday
 
+Natalie - different ways to use the css position property
+
 ## Friday
 
 ## Available Talks
