@@ -20,6 +20,8 @@ Alek Sharma
 * What is the  arrange act assert pattern?
 * What is red green refactor?
 
+Ryan Hedges - Code Kata
+
 ## Thursday
 
 ## Friday
