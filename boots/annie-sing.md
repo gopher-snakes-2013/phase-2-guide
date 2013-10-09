@@ -1,4 +1,3 @@
-
 1. Copy and paste this score card into your `boots/your-name.md` file
 2. Indicate where you feel you stand in each of the learning objectives.
    (use an [emoji](http://www.emoji-cheat-sheet.com/) for :+1: :gem:!)
@@ -19,3 +18,8 @@ is intended as a starting point for assessing your comprehension and competence.
   work in it independently
 * 2 means you're comfortable with the topic, and are actually productive in it
 * 3 means you are zomg wtf amazi-craze you just tear through code in that topic
+
+
+| Coders Mindset | Testing & TDD | Debugging | Ruby Webapps | ActiveRecord | HTML & CSS |
+|:perserverence: |:perserverence:|:perserverence: |:perserverence:  |:perserverence:| :perserverence: |
+| :thumbsdown: | :thumbsdown: | :thumbsdown: | :thumbsdown: | :thumbsdown: | :thumbsdown: |
