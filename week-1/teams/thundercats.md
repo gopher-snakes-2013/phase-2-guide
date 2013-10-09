@@ -1,9 +1,9 @@
 # TEAM THUNDERCATS
-_nat marion brand cricket_
+https://github.com/gopher-snakes-2013/thundercats
 
 ## Project
 _Online JOKE Forum_
-http://jokez.herokuapp.com/
+<br> http://jokez.herokuapp.com/
 
 ## Members
 * Nat
