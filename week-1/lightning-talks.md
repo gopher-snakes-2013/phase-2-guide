@@ -16,12 +16,15 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Wednesday
 * Steven Nugent - What does 'semantic markup' mean?
 
+Alek Sharma
+* What is the  arrange act assert pattern?
+* What is red green refactor?
+
 ## Thursday
 
 ## Friday
 
 ## Available Talks
-* What is the  arrange act assert pattern?
 * What is a protocol?
 * What are the 4 rules of simple design?
 * What's the difference between ruby's standard library, core library, and gems?
@@ -32,7 +35,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * What is refactoring?
 * How can I use git branches to make spiking easier?
 * What makes a good pull request?
-* What is red green refactor?
 * What is the difference between GET and POST?
 * How can I inform the user when active record validations fail?
 * What are merge conflicts and how do I fix them?
