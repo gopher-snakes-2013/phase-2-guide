@@ -10,8 +10,8 @@ Day 2
 | Coders Mindset |	Testing & TDD |	Debugging |	Ruby Webapps | ActiveRecord	| HTML & CSS |
 |----------------|----------------|-----------|--------------|--------------|------------|
 |      +2 thumb  |       +.5      |    +1     |     1.5      |    +1.5      |    +3   |
-Everything today went waaaayyy better than Monday. I feel like I'm starting to at least
-have a decent idea and grasp on what the hell we're doing and when I talk about anything.
-I'm not doing great at any one thing but I also don't feel completely lost with any one thing.
-Rspec is growing on me and I'm digging how simple and how much Active Record does for us.
-I think I could mess with HTML/CSS a little more if I really wanted to get fancy with presentation.
+
+TDD is still like learning a new language to me.  Which means, syntax is hard for me to pick up unless I get constant repetition.
+Building a skeleton is still difficult with some reference.  I'm fairly okay with what ActiveRecord does with the "easy" things
+I have previous HTML & CSS experience so if you ask me to code up a photoshop file with column and grid layouts I"ll be able to do it
+without some bootstrap, albeit, bootstrap does make it easy.  Most of my efforts are on testing.
