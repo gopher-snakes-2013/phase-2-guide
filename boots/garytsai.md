@@ -9,7 +9,7 @@ Day 2
 
 | Coders Mindset |	Testing & TDD |	Debugging |	Ruby Webapps | ActiveRecord	| HTML & CSS |
 |----------------|----------------|-----------|--------------|--------------|------------|
-|    :+1  +2 thumb  |       +.5      |    +1     |     1.5      |    +1.5      |    +3   |
+|      +2 thumb  |       +.5      |    +1     |     1.5      |    +1.5      |    +3      |
 
 TDD is still like learning a new language to me.  Which means, syntax is hard for me to pick up unless I get constant repetition.
 Building a skeleton is still difficult with some reference.  I'm fairly okay with what ActiveRecord does with the "easy" things
