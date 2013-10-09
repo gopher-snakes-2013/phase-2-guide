@@ -21,5 +21,9 @@ is intended as a starting point for assessing your comprehension and competence.
 
 
 | Coders Mindset | Testing & TDD | Debugging | Ruby Webapps | ActiveRecord | HTML & CSS |
+
+
 |:perserverence: |:perserverence:|:perserverence: |:perserverence:  |:perserverence:| :perserverence: |
+
+
 | :thumbsdown: | :thumbsdown: | :thumbsdown: | :thumbsdown: | :thumbsdown: | :thumbsdown: |
