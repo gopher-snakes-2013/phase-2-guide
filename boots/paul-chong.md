@@ -9,3 +9,14 @@ Journal Entries:
 | Coders Mindset | Testing & TDD | Debugging | Ruby Webapps | ActiveRecord | HTML & CSS |
 | -------------- | ------------- | --------- | ------------ | ------------ | ---------- |
 |   :smiley:     |  :perservere: |   :smiley:|    :smiley:  |    :smiley:  |   :smiley: |
+
+
+#2 Week One, Day Two
+- Coder's Mindset improved after conducting a lighting talk
+- ActiveRecord, Front-end and heroku feeling much more positive after successful deployments
+- testing and rspec stil neglected - main area of focus
+
+| Coders Mindset | Testing & TDD | Debugging | Ruby Webapps | ActiveRecord | HTML & CSS |
+| -------------- | ------------- | --------- | ------------ | ------------ | ---------- |
+|   :+1:     	 | 		 :punch: |	 :+1:	 |   :+1: 		|    :+1: 	   |   :smiley: |
+
