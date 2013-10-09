@@ -17,7 +17,7 @@ I felt a lot better about today. After doing all of those tutorials, I gained a 
 
 | Coders Mindset| Test & TDD    | Debugging  | Ruby Webapps | ActiveRecord | HTML & CSS  |
 | ------------- |---------------| -----------|--------------|--------------| ------------|
-|:perservere:   |:perservere:   |:perservere:|:perservere:  |:perservere:  | :perservere: |
+|:persevere:    |:persevere:    |:persevere: |:persevere:   |:persevere:   | :persevere: |
 
 
 | Coders Mindset| Test & TDD    | Debugging  | Ruby Webapps | ActiveRecord | HTML & CSS  |
