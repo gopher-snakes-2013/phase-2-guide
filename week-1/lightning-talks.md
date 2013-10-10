@@ -27,6 +27,7 @@ Ryan Hedges - Code Kata
 Natalie - different ways to use the css position property
 
 ## Friday
+* How can I inform the user when active record validations fail?
 
 Thomas -- Abstraction vs Indirection
 
@@ -42,7 +43,6 @@ Thomas -- Abstraction vs Indirection
 * How can I use git branches to make spiking easier?
 * What makes a good pull request?
 * What is the difference between GET and POST?
-* How can I inform the user when active record validations fail?
 * What are merge conflicts and how do I fix them?
 * How do I use capybara to test sinatra?
 * What is the different ways to use the css position property?
