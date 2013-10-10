@@ -28,6 +28,8 @@ Natalie - different ways to use the css position property
 
 ## Friday
 
+Thomas -- Abstraction vs Indirection
+
 ## Available Talks
 * What is a protocol?
 * What are the 4 rules of simple design?
@@ -43,7 +45,6 @@ Natalie - different ways to use the css position property
 * How can I inform the user when active record validations fail?
 * What are merge conflicts and how do I fix them?
 * How do I use capybara to test sinatra?
-* What is the difference between abstraction and indirection?
 * What is the different ways to use the css position property?
 * What makes a good test?
 * What is rack anyway?
