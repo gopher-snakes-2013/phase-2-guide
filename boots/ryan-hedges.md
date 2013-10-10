@@ -25,3 +25,17 @@ OCTOBER 7th 2013
 |				 |				 |			 |				|			   |	  	 	|
 
 Coder Mindset: begining to understand the ways that I learn. [Aural](http://www.vark-learn.com/english/page.asp?p=aural) and [Kinesthetic](http://www.vark-learn.com/english/page.asp?p=kinesthetic#). visual: 8 Aural: 13 Read/Write: 4 Kinesthetic: 11
+
+
+OCTOBER 8th 2013
+
+| Coders Mindset | Testing & TDD | Debugging | Ruby Webapps | ActiveRecord | HTML & CSS |
+| -------------- | ------------- | --------- | ------------ | ------------ | ---------- |
+|   -100 :+1:    |  -10000 :+1:  | -100 :+1: |   -100 :+1:  |   -10 :+1:   |  -10 :+1:  |
+|				 |				 |			 |				|			   |	  	 	|
+
+I learned more about heroku and github. Set up file structure for web app and migrated our Database.
+Recognized opression/sexism. I wanted sinatra experience tonight but got stuck on heroku.
+Practiced being more auditory by trying to explain understanding of things.
+I don't feel significantly closer to learning objectives to change thumbs.
+

@@ -20,3 +20,13 @@ have a decent idea and grasp on what the hell we're doing and when I talk about 
 I'm not doing great at any one thing but I also don't feel completely lost with any one thing.
 Rspec is growing on me and I'm digging how simple and how much Active Record does for us.
 I think I could mess with HTML/CSS a little more if I really wanted to get fancy with presentation.
+
+Week 1 Day 3 Wednesday
+
+| Coders Mindset |	Testing & TDD |	Debugging |	Ruby Webapps | ActiveRecord	| HTML & CSS |
+|----------------|----------------|-----------|--------------|--------------|------------|
+|      +0.5      |       +1       |    +0.5   |     +.5      |    +0.5      |    +0.25   |
+Today went well. Didn't have any crazy breakthroughs or feel super better about any one thing
+but I do feel better about having gotten a lot more practice and exposure to all of our tools.
+I also got to play with RSPEC a bit which is actually turning out to be kinda fun to write 
+my own tests so I'm looking forward to try and do more TDD.

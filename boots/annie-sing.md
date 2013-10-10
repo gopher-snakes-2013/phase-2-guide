@@ -1,21 +1,33 @@
-
-1. Copy and paste this score card into your `boots/your-name.md` file
-2. Indicate where you feel you stand in each of the learning objectives.
-   (use an [emoji](http://www.emoji-cheat-sheet.com/) for :+1: :gem:!)
-3. Add a tweet-sized blurb about what you learned today.
+October 7th, 2013
+I felt extremely lost today, but starting around 9:30, I started going through a ton of tutorials, and felt a lot better about where I was at.
 
 
-| Coders Mindset | Testing & TDD | Debugging | Ruby Webapps | ActiveRecord | HTML & CSS |
-|:frowning:| :frowning: |:frowning:|:frowning:|:frowning:| :frowning:|
-| :thumbsdown: | :thumbsdown: | :thumbsdown: | :thumbsdown: | :thumbsdown: | :thumbsdown: |
+| Coders Mindset| Test & TDD    | Debugging  | Ruby Webapps | ActiveRecord | HTML & CSS  |
+| ------------- |---------------| -----------|--------------|--------------| ------------|
+| :facepunch:   | :facepunch:   |:facepunch: |:facepunch:   | :facepunch:  |:facepunch:  |
 
-### The Thumb System
 
-Each learning objective has a series of behaviors or questions that you can use
-to gauge where you sit on the thumb system. It's by no means comprehensive; and
-is intended as a starting point for assessing your comprehension and competence.
+| Coders Mindset| Test & TDD    | Debugging  | Ruby Webapps | ActiveRecord | HTML & CSS  |
+| ------------- |---------------| -----------|--------------|--------------| ------------|
+| :thumbsdown:  | :thumbsdown:  |:thumbsdown:|:thumbsdown:  | :thumbsdown: |:thumbsdown: |
+
+
+October 8th, 2013
+I felt a lot better about today. After doing all of those tutorials, I gained a lot of confidence in my abiliites, but I stll have a lot to learn!
+
+| Coders Mindset| Test & TDD    | Debugging  | Ruby Webapps | ActiveRecord | HTML & CSS  |
+| ------------- |---------------| -----------|--------------|--------------| ------------|
+|:persevere:    |:persevere:    |:persevere: |:persevere:   |:persevere:   | :persevere: |
+
+
+| Coders Mindset| Test & TDD    | Debugging  | Ruby Webapps | ActiveRecord | HTML & CSS  |
+| ------------- |---------------| -----------|--------------|--------------| ------------|
+| :+1:          | :+1:          |:+1:        |:+1:          | :+1:         |:+1:         |
+
 
 * 1 thumb up indicates you're competent enough to be somewhat useful and able to
   work in it independently
 * 2 means you're comfortable with the topic, and are actually productive in it
 * 3 means you are zomg wtf amazi-craze you just tear through code in that topic
+
+
