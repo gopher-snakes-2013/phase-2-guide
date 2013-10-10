@@ -18,6 +18,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Thursday
 
 ## Friday
+* How can I inform the user when active record validations fail?
 
 ## Available Talks
 * What is the  arrange act assert pattern?
@@ -33,7 +34,6 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * What makes a good pull request?
 * What is red green refactor?
 * What is the difference between GET and POST?
-* How can I inform the user when active record validations fail?
 * What are merge conflicts and how do I fix them?
 * How do I use capybara to test sinatra?
 * What is the difference between abstraction and indirection?
