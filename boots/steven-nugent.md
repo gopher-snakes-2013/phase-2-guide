@@ -9,10 +9,19 @@ Today I learned how Sinatra can use get and post routes when using a form. The d
 
 
 
-# Phase 2, Day 2 - Monday, October 8th
+# Phase 2, Day 2 - Tuesday, October 8th
 Today I learned how Capybara mimics a user's interaction to perform tests.
 
 | Coders Mindset | Testing & TDD |  Debugging | Ruby Webapps | ActiveRecord | HTML & CSS |
 | -------------- | ------------- |  --------- | ------------ | ------------ | ---------- |
 | .5 :cookie:    | .5 :cookie:   | .7 :cookie:| .4 :cookie:  | .5 :cookie:  | .5 :cookie:|
+
+
+
+# Phase 2, Day 3 - Wednesday, October 9th
+Today I learned about sessions and how it can be used to store a param used across routes.
+
+| Coders Mindset | Testing & TDD |  Debugging | Ruby Webapps | ActiveRecord | HTML & CSS |
+| -------------- | ------------- |  --------- | ------------ | ------------ | ---------- |
+| .5 :cookie:    | .5 :cookie:   | .8 :cookie:| .7 :cookie:  | .6 :cookie:  | .6 :cookie:|
 
