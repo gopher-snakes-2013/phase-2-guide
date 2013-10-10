@@ -62,3 +62,43 @@ Feeling okay so far.
 HTML & CSS: 
 Love. We took the time to apply some markup and styles to our release 1!
 
+
+____________________________________________________________________
+
+
+Phase 2 Day 3
+
+| Coders Mindset | Testing & TDD | Debugging   | Ruby Webapps | ActiveRecord | HTML & CSS   |
+| -------------- | ------------- | ---------   | ------------ | ------------ | ----------   |
+|  :punch:		 | :bow:		 | :clap:	   | :bow: 		  | :raised_hand:| :heart:		|
+
+
+Never use require_relative in config.ru.
+Never use require_relative in config.ru.
+Never use require_relative in config.ru.
+Never use require_relative in config.ru.
+Never use require_relative in config.ru.
+Never use require_relative in config.ru.
+Never use require_relative in config.ru.
+Never use require_relative in config.ru.
+Never use require_relative in config.ru.
+Never use require_relative in config.ru.
+Never use require_relative in config.ru.
+Never use require_relative in config.ru.
+Never use require_relative in config.ru.
+Never use require_relative in config.ru.
+Never use require_relative in config.ru.
+Use require instead.
+
+This _relative made us – Team Schnitzel – rewrite the first release of our app. Twice. 
+
+require './our_app'
+run Sinatra::Application
+# `run` is a method that tells the rack server
+# to dispatch HTTP Requests to the rack specified.
+
+
+Also, Heroku runs on Postgresql, so why not use PG in development too? We did that in our latest rewrite and it worked nicely. 
+
+Release 01 is simple, but we sure as hell learned a looot.
+
