@@ -20,3 +20,12 @@ Journal Entries:
 | -------------- | ------------- | --------- | ------------ | ------------ | ---------- |
 |   :+1:     	 | 		 :punch: |	 :+1:	 |   :+1: 		|    :+1: 	   |   :smiley: |
 
+
+#3 Week One, Day Three
+- Ruby Webapps was improved after repeated attempts to post app to Heroku
+- ActiveRecord progressed with morning exercise
+- Reading rspec improved, though writing still requires work
+
+| Coders Mindset | Testing & TDD | Debugging | Ruby Webapps | ActiveRecord | HTML & CSS |
+| -------------- | ------------- | --------- | ------------ | ------------ | ---------- |
+|   :+1:     	 | 		 :punch: | :pensive: |   :+1: 		|    :+1: 	   |   :smiley: |
