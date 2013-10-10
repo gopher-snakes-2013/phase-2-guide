@@ -29,3 +29,4 @@ Journal Entries:
 | Coders Mindset | Testing & TDD | Debugging | Ruby Webapps | ActiveRecord | HTML & CSS |
 | -------------- | ------------- | --------- | ------------ | ------------ | ---------- |
 |   :+1:     	 | 		 :punch: | :pensive: |   :+1: 		|    :+1: 	   |   :smiley: |
+
