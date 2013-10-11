@@ -102,3 +102,23 @@ Also, Heroku runs on Postgresql, so why not use PG in development too? We did th
 
 Release 01 is simple, but we sure as hell learned a looot.
 
+
+____________________________________________________________________
+
+
+Phase 2 Day 4
+
+| Coders Mindset | Testing & TDD | Debugging   | Ruby Webapps | ActiveRecord | HTML & CSS   |
+| -------------- | ------------- | ---------   | ------------ | ------------ | ----------   |
+|  :punch:		 | :clap:		 | :clap:	   | :bow: 		  | :raised_hand:| :heart:		|
+
+
+Today, I fell for TDD. We tdd'ed our way through the beginnings of http://en.wikipedia.org/wiki/Conway's_Game_of_Life, switched pairing partners a bunch of times, deleted everything we had written and started from scratch. Awesome. 
+
+Team Schnitzel implemented TDD, too. Sick.
+
+Evening lecture by @quackingduck was inspiring as hell:
+
+"Write programs that do one thing and do it well. Write programs to work together." 
+– Unix philosophy
+
