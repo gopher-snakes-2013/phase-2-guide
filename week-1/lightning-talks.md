@@ -27,7 +27,7 @@ Ryan Hedges - Code Kata
 Natalie - different ways to use the css position property
 
 ## Friday
-* How can I inform the user when active record validations fail?
+* Jenny - How can I inform the user when active record validations fail?
 
 * Thomas -- Abstraction vs Indirection
 
