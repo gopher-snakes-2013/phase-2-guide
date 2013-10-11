@@ -23,3 +23,11 @@ good day.. feelin like i understand the sinatra-activerecord dance a lot better.
 |      :+1:      |  :+1: 40%     | :+1: 50%  |:boom::+1: 50% | :+1: 75%     |:stuck_out_tongue::+1: 75%|
 
 finally gettin the hang of rspec & Arrange Act Assert (thanks alek) & the red green refactor method. playing wit CSS was fun.
+
+## thurz - 10.10
+
+| Coders Mindset | Testing & TDD | Debugging | Ruby Webapps  | ActiveRecord | HTML & CSS               |
+| -------------- | ------------- | --------- | ------------- | ------------ | ------------------------ |
+|      :+1:      |  :+1: 75%     | :+1: 60%  |:boom::+1: 75% | :+1: 75%     |:stuck_out_tongue::+1: 75%|
+
+really enjoying the am time of search inside yourself. it's nice to settle into the day with some calm & reflection.
