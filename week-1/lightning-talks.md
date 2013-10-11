@@ -29,8 +29,9 @@ Natalie - different ways to use the css position property
 ## Friday
 * How can I inform the user when active record validations fail?
 
-Thomas -- Abstraction vs Indirection \n
-Kenneth -- Params Hash
+* Thomas -- Abstraction vs Indirection
+
+* Kenneth -- Params Hash
 
 ## Available Talks
 * What is a protocol?
