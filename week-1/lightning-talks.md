@@ -33,6 +33,9 @@ Natalie - different ways to use the css position property
 
 * Kenneth -- Params Hash
 
+*Annie -- Github website! via repo: anniesing.github.io 
+
+
 ## Available Talks
 * What is a protocol?
 * What are the 4 rules of simple design?
