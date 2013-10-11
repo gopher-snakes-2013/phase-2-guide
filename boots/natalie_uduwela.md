@@ -28,6 +28,6 @@ finally gettin the hang of rspec & Arrange Act Assert (thanks alek) & the red gr
 
 | Coders Mindset | Testing & TDD | Debugging | Ruby Webapps  | ActiveRecord | HTML & CSS               |
 | -------------- | ------------- | --------- | ------------- | ------------ | ------------------------ |
-|      :+1:      |  :+1: 75%     | :+1: 60%  |:boom::+1: 75% | :+1: 75%     |:stuck_out_tongue::+1: 75%|
+|      :+1:      |  :+1: 75%     | :+1: 60%  |:boom::+1: 75% | :+1:         |:stuck_out_tongue::+1:    |
 
 really enjoying the am time of search inside yourself. it's nice to settle into the day with some calm & reflection.
