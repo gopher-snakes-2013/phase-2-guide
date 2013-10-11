@@ -39,3 +39,28 @@ Recognized opression/sexism. I wanted sinatra experience tonight but got stuck o
 Practiced being more auditory by trying to explain understanding of things.
 I don't feel significantly closer to learning objectives to change thumbs.
 
+OCTOBER 9th 2013
+
+| Coders Mindset | Testing & TDD | Debugging | Ruby Webapps | ActiveRecord | HTML & CSS |
+| -------------- | ------------- | --------- | ------------ | ------------ | ---------- |
+|   -1000 :+1:   |  -10000 :+1:  | -100 :+1: |   -75 :+1:   |   -5 :+1:    |  -5 :+1:   |
+|				 |				 |			 |				|			   |	  	 	|
+
+I'm getting more comfortable with routes, activerecord and html. I tried learning more about
+Rspec tonight for about 3 hours. I have a better idea about how it works but will see if I can
+implement it into TDD. I want to try my own project but feel like I have too much to learn.
+
+OCTOBER 10th 2013
+
+| Coders Mindset | Testing & TDD | Debugging | Ruby Webapps | ActiveRecord | HTML & CSS |
+| -------------- | ------------- | --------- | ------------ | ------------ | ---------- |
+|   -500 :+1:    |  -500 :+1:    | -100 :+1: |   -75 :+1:   |   -5 :+1:    |  -5 :+1:   |
+|				 |				 |			 |				|			   |	  	 	|
+
+Gained better understanding of what is going on in TDD and rspec.
+I need more experience in developing using tests. started my own app today but got stuck
+with postgres stuff. Today was fun and lacked a bunch of superE shinanigans.
+
+
+
+

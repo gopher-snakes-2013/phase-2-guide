@@ -1,6 +1,11 @@
 Learning objectives for Phase 2: Be able to build kick-ass web applications using:
 Sinatra, Heroku, RSpec, ActiveRecord, and a bunch of other software
 
-Monday 10/7/2013: Day was pretty much of a blur trying to get back in the swing and get VM set up to run ruby. 
+Thursday 10/10/2013: This morning did rapid TDD pair programming. Seems like a good way to get more fluent at realtime 
+                  rspec and ruby programming. Afternoon, had lots of trouble getting capybara tests to run with 
+                  display/1 type routes. Evening, tried to shotgun thunder from laptop. Installed a bunch of gems but 
+                  still got a connection refused from server. TBC...
 Tuesday 10/8/2013: Still a blur. Thanks to Topher I can run ruby on the laptop now. Yay!
                   Created ToDo list web app in the morning and first rev of discussion forum app in the afternoon.
+Monday 10/7/2013: Day was pretty much of a blur trying to get back in the swing and get VM set up to run ruby. 
+

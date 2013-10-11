@@ -25,9 +25,21 @@ I felt a lot better about today. After doing all of those tutorials, I gained a 
 | :+1:          | :+1:          |:+1:        |:+1:          | :+1:         |:+1:         |
 
 
-* 1 thumb up indicates you're competent enough to be somewhat useful and able to
-  work in it independently
-* 2 means you're comfortable with the topic, and are actually productive in it
-* 3 means you are zomg wtf amazi-craze you just tear through code in that topic
+
+October 9th, 2013
+I felt really good about the morning challenge today. I felt like I was doing a good job at making the tests fail before proceeding.
+The afternoon is also alright. It's hard working in teams, but we're trying to make it work. My pair and I managed to get some parts of a working interface up on the web.
+We're getting close to having an MVP for our first release.
+
+
+| Coders Mindset| Test & TDD    | Debugging  | Ruby Webapps | ActiveRecord | HTML & CSS  |
+| ------------- |---------------| -----------|--------------|--------------| ------------|
+| :smirk:       |:expressionless:|:no_mouth: | :no_mouth:   | :smirk:      |:no_mouth:   |
+
+
+| Coders Mindset| Test & TDD    | Debugging  | Ruby Webapps | ActiveRecord | HTML & CSS  |
+| ------------- |---------------| -----------|--------------|--------------| ------------|
+| :+1           | :+1:          |:+1:        |:+1:    .5      | :+1:  .5   |:+1:  .5     |
+
 
 

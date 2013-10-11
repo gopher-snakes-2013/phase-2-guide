@@ -62,3 +62,63 @@ Feeling okay so far.
 HTML & CSS: 
 Love. We took the time to apply some markup and styles to our release 1!
 
+
+____________________________________________________________________
+
+
+Phase 2 Day 3
+
+| Coders Mindset | Testing & TDD | Debugging   | Ruby Webapps | ActiveRecord | HTML & CSS   |
+| -------------- | ------------- | ---------   | ------------ | ------------ | ----------   |
+|  :punch:		 | :bow:		 | :clap:	   | :bow: 		  | :raised_hand:| :heart:		|
+
+
+Never use require_relative in config.ru.
+Never use require_relative in config.ru.
+Never use require_relative in config.ru.
+Never use require_relative in config.ru.
+Never use require_relative in config.ru.
+Never use require_relative in config.ru.
+Never use require_relative in config.ru.
+Never use require_relative in config.ru.
+Never use require_relative in config.ru.
+Never use require_relative in config.ru.
+Never use require_relative in config.ru.
+Never use require_relative in config.ru.
+Never use require_relative in config.ru.
+Never use require_relative in config.ru.
+Never use require_relative in config.ru.
+Use require instead.
+
+This _relative made us – Team Schnitzel – rewrite the first release of our app. Twice. 
+
+require './our_app'
+run Sinatra::Application
+# `run` is a method that tells the rack server
+# to dispatch HTTP Requests to the rack specified.
+
+
+Also, Heroku runs on Postgresql, so why not use PG in development too? We did that in our latest rewrite and it worked nicely. 
+
+Release 01 is simple, but we sure as hell learned a looot.
+
+
+____________________________________________________________________
+
+
+Phase 2 Day 4
+
+| Coders Mindset | Testing & TDD | Debugging   | Ruby Webapps | ActiveRecord | HTML & CSS   |
+| -------------- | ------------- | ---------   | ------------ | ------------ | ----------   |
+|  :punch:		 | :clap:		 | :clap:	   | :bow: 		  | :raised_hand:| :heart:		|
+
+
+Today, I fell for TDD. We tdd'ed our way through the beginnings of http://en.wikipedia.org/wiki/Conway's_Game_of_Life, switched pairing partners a bunch of times, deleted everything we had written and started from scratch. Awesome. 
+
+Team Schnitzel implemented TDD, too. Sick.
+
+Evening lecture by @quackingduck was inspiring as hell:
+
+"Write programs that do one thing and do it well. Write programs to work together." 
+– Unix philosophy
+
