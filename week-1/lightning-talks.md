@@ -33,8 +33,9 @@ Natalie - different ways to use the css position property
 
 * Kenneth -- Params Hash
 
-*Annie -- Github website! via repo: anniesing.github.io 
+* Annie -- Github website! via repo: anniesing.github.io 
 
+* Marion -- erb redirects
 
 ## Available Talks
 * What is a protocol?
