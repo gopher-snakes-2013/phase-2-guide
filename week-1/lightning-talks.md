@@ -29,15 +29,12 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 Natalie - different ways to use the css position property
 
 ## Friday
-* Jenny - How can I inform the user when active record validations fail?
-
-* Thomas -- Abstraction vs Indirection
-
-* Kenneth -- Params Hash
-
-* Annie -- Github website! via repo: anniesing.github.io 
-
-* Marion -- erb redirects
+* [Jenny - How can I inform the user when active record validations fail?](lightning-talks/active-record-validation-errors-jenny.md)
+* [Thomas -- Abstraction vs Indirection](lightning-talks/abtraction-vs-indirection-thomas.md)
+* [Kenneth -- Params Hash](lightning-talks/params-ken.md)
+* [Annie -- Github website! via repo: anniesing.github.io](lightning-talks/) 
+* [Marion -- erb redirects](lightning-talks/erb-redirect-marion.md)
+* [Cricket -- Duck Typing](lightning-talks/duck-typing-cricket.md)
 
 ## Available Talks
 * What is red green refactor?
