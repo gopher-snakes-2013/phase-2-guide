@@ -45,6 +45,7 @@
 
 ### Testing
 
+1. [Zee TDDs Conways Game of Life](https://gist.github.com/zspencer/6924352)
 1. [Testing with Rspec](http://net.tutsplus.com/tutorials/ruby/ruby-for-newbies-testing-with-rspec/),:level_1, :tutorial
 1. [RSpec Assertions: expect](http://betterspecs.org/#expect), :blog, :level_1
 1. [RSpec Expect](http://myronmars.to/n/dev-blog/2012/06/rspecs-new-expectation-syntax), :documentation, :level_1
