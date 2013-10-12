@@ -12,17 +12,32 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 4. Submit a pull request!
 
 ## Tuesday
+* Paul C -What are the 4 rules of simple design?
 
 ## Wednesday
 
+* [Steven - What does 'semantic markup'
+   mean?](lightning-talks/semantic-markup-with-steven.md)
+* [Alek - What is the  arrange act assert pattern?](arrange-act-assert-with-alek.md)
+* [Ryan - Code Kata](lightning-talks/code-kata.md)
+* [Carter - What is a protocol?](lightning-talks/what-is-a-protocol-with-carter.md)
+* [Salar - What is a good commit?](lightning-talks/good-commits-with-salar.md)
+* [Taylor - What is the difference between POST and GET](lightning-talks/what-is-http.md)
+
 ## Thursday
 
+Natalie - different ways to use the css position property
+
 ## Friday
+* [Jenny - How can I inform the user when active record validations fail?](lightning-talks/active-record-validation-errors-jenny.md)
+* [Thomas -- Abstraction vs Indirection](lightning-talks/abtraction-vs-indirection-thomas.md)
+* [Kenneth -- Params Hash](lightning-talks/params-ken.md)
+* [Annie -- Github website! via repo: anniesing.github.io](lightning-talks/) 
+* [Marion -- erb redirects](lightning-talks/erb-redirect-marion.md)
+* [Cricket -- Duck Typing](lightning-talks/duck-typing-cricket.md)
 
 ## Available Talks
-* What is the  arrange act assert pattern?
-* What is a protocol?
-* What are the 4 rules of simple design?
+* What is red green refactor?
 * What's the difference between ruby's standard library, core library, and gems?
 * What makes a good commit?
 * What is the params hash?
@@ -31,16 +46,12 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 * What is refactoring?
 * How can I use git branches to make spiking easier?
 * What makes a good pull request?
-* What is red green refactor?
 * What is the difference between GET and POST?
-* How can I inform the user when active record validations fail?
 * What are merge conflicts and how do I fix them?
 * How do I use capybara to test sinatra?
-* What is the difference between abstraction and indirection?
 * What is the different ways to use the css position property?
 * What makes a good test?
 * What is rack anyway?
-* What does 'semantic markup' mean?
 * When do I use test doubles?
 * How do I deploy a sinatra app to heroku?
 * How can I use $LOAD\_PATH to avoid using require\_relative?
