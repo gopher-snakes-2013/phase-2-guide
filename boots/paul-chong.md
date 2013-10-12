@@ -31,4 +31,23 @@ Journal Entries:
 |   :+1:     	 | 		 :punch: | :pensive: |   :+1: 		|    :+1: 	   |   :smiley: |
 
 
+#4 Week One, Day Four
+- Improved ability to write Rspec through pairing exercise this morning
+- Moved forward with Capybara through group project
+- Still rusty in exact syntax for Sinatra and RSpec - areas for improvement
+
+| Coders Mindset | Testing & TDD | Debugging | Ruby Webapps | ActiveRecord | HTML & CSS |
+| -------------- | ------------- | --------- | ------------ | ------------ | ---------- |
+|   :+1:     	 | 		 :punch: | 		+1	 |   :+1: 		|    :+1: 	   |   :smiley: |
+
+
+#4 Week One, Day Five
+- Group project focused on TDD - learned some useful functions for Capybara
+- CSS pairing helped consolidate many earlier online tutorials
+- Looking forward to working on Craigs List Jr to strengthen understanding of launching a live app
+
+| Coders Mindset | Testing & TDD | Debugging | Ruby Webapps | ActiveRecord | HTML & CSS |
+| -------------- | ------------- | --------- | ------------ | ------------ | ---------- |
+|   :+1:     	 | 		 :punch: | 	:+1:	 |   :+1: 		|    :+1: 	   |   :smiley: |
+
 
