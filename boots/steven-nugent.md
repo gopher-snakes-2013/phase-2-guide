@@ -31,3 +31,11 @@ Today I learned a lot about RSpec and am getting more comfortable using it.
 | -------------- | ------------- |  --------- | ------------ | ------------ | ---------- |
 | .6 :cookie:    | .6 :cookie:   | .8 :cookie:| .8 :cookie:  | .7 :cookie:  | .6 :cookie:|
 
+
+# Phase 2, Day 5 - Friday, October 11th
+Today I learned a lot about RSpec and am getting more comfortable using it.
+
+| Coders Mindset | Testing & TDD |  Debugging | Ruby Webapps | ActiveRecord | HTML & CSS |
+| -------------- | ------------- |  --------- | ------------ | ------------ | ---------- |
+| .7 :cookie:    | .6 :cookie:   | .8 :cookie:| .8 :cookie:  | .7 :cookie:  | .7 :cookie:|
+
