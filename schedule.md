@@ -52,8 +52,9 @@
 
 ####Monday:
 * 9:00 EI 
-* 9:30 - 11:30 Pair on challenges.
-* 11:30 - 12:30 Lecture
+* 9:30 - 11:30 Javascript Code Retreat wth Try Jasmine
+* 12:00 - 12:30 [Zee TDD's Game of
+* Life](http://talks.devbootcamp.com/zee-tdds-conways-game-of-life)
 * 2:00 presentations : [Week 1 Team Project - Code Presentations](week-1/group-projects.md/#presentation)
 * 5:30 : Standup
 * 3:00 - 7:00 : Group Project
