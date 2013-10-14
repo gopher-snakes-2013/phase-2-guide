@@ -1,3 +1,15 @@
+W1-d5:
+tgif! read through thunder this morining...wondering why i wasnt reading this all week long. awesome stuff. tonight: beer and coding...always fun...just ask zee lol.
+
+W1-d4:
+felt good today. drank a lot of coffee around dinner, which gave me a lot of energy to power through some coding till past midnight. gary and i went over sinatra-todo over and over again switching drivers every 10 mins with a 1 hr timebox. repeated the exercise switching drivers every 5 mins. for another hr. was a great exercise for thinking and coding faster.
+
+W1-d3:
+had a great day of programming with the group. went home early tonight. needed to catch up on some rest. was planning on going home and reading, but ended up just going to bed early. nice.
+
+W1-d2:
+worked on finishing challenge with annie tonight. then went home.
+
 w1-d1:
 i need to review the git workflow, so i can work with confidence. got caught up reading a lot of differnet stuff online tonight, but now leaving dbc feeling like i didn't accomplish anything.
 
