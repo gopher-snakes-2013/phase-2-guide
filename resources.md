@@ -7,7 +7,10 @@
 * [HTML and CSS](#HTML-and-CSS)
 
 ## Week 2
-* [JavaScript](#JavaScript)
+* [JavaScript](#javascript)
+* [JavaScript Testing - Jasmine](#jasmine)
+* [JavaScript Frameworks and Libraries](#javascript-frameworks-and-libraries)
+* [Debugging JavaScript](#debugging-javascript)
 
 ## Week 3
 
@@ -76,9 +79,25 @@
 
 ### JavaScript
 
-1. [MDN Javascript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) - in particular the 'Working With Objects'
+1. [MDN Javascript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) - in particular: 'Working With Objects'
+1. [MDN JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+1. Team Treehouses: [Javascript Foundations](http://teamtreehouse.com/library/websites/javascript-foundations)
+1. Understanding [this](http://trephine.org/t/index.php?title=Understanding_JavaScript%27s_this_keyword) and [call and apply](http://trephine.org/t/index.php?title=JavaScript_call_and_apply) 
+1. Justin Searls video : [javascript testing tactics](https://speakerdeck.com/searls/javascript-testing-tactics)
 1. [exercism.io JavaScript](exercism.io/setup/javascript),:level_2, :tutorial
 
 
 ### Jasmine
 1. [Jasmine Documentation](http://pivotal.github.io/jasmine/)
+1. [Jasmine Cheat Sheet](http://www.cheatography.com/citguy/cheat-sheets/jasmine-js-testing/)
+
+### JavaScript Frameworks and Libraries
+* [jQuery](http://jquery.com/)
+* [Node](http://nodejs.org)
+* [MustacheJS](https://github.com/defunkt/mustache)
+* [UnderscoreJS](http://underscorejs.org/)
+
+### Debugging JavaScript
+1. Codeschool: [Dev Tools Course](https://www.codeschool.com/courses/discover-devtools)
+1. [Debug with Node](http://nodejs.org/api/debugger.html)
+
