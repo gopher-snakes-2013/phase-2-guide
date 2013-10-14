@@ -73,5 +73,10 @@
 1. [CSS3 transitions](http://net.tutsplus.com/tutorials/html-css-techniques/css-fundametals-css-3-transitions/), :level_2, :tutorial
 
 ### JavaScript
+
+1. [MDN Javascript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) - in particular the 'Working With Objects'
 1. [exercism.io JavaScript](exercism.io/setup/javascript),:level_2, :tutorial
 
+
+### Jasmine
+1. [Jasmine Documentation](http://pivotal.github.io/jasmine/)
