@@ -52,7 +52,7 @@
 
 ####Monday:
 * 9:00 EI 
-* 9:30 - 11:30 Pair on challenges.
+* 9:30 - 11:30 Pair on JavaScript Code Retreat.
 * 11:30 - 12:30 Lecture
 * 2:00 presentations : [Week 1 Team Project - Code Presentations](week-1/group-projects.md/#presentation)
 * 5:30 : Standup
@@ -62,14 +62,14 @@
 
 ####Tuesday
 * 9:00 EI 
-* 9:30 - 11:30 Pair on challenges.
+* 9:30 - 11:30 Pair on [JavaScript Objects and JQuery](../../../orange-trees).
 * 11:30 - 12:30 Lecture
 * 2:00 - 2:45 [Lightning Talks](week-2/lightning-talks.md)
 * 3:00 - 7:00 Group Project
 * 6:00 - Mentor Night
 
 ####Wednesday
-* 9:00 -11:00 Pair on challenges.
+* 9:00 -11:00 Pair on [Testing JQuery]().
 * 11:00 - 12:30 EE with Karim
 * 2:00 - 2:45 [Lightning Talks](week-2/lightning-talks.md)
 * 3:00 - 7:00 Group Projects
@@ -78,7 +78,7 @@
 
 ####Thursday
 * 9:00 EI 
-* 9:30 - 11:30 Pair on Challenges
+* 9:30 - 11:30 Pair on [AJAX]()
 * 11:30 - 12:30 Lecture
 * 2:00 - 2:45 [Lightning Talks](week-2/lightning-talks.md)
 * 3:00 - 7:00 Group Projects
@@ -87,7 +87,7 @@
 
 ####Friday
 * 9:00 EI 
-* 9:30 - 11:30 Pair on Challenges
+* 9:30 - 11:30 Pair on [Testing AJAX]()
 * 11:30 - 12:30 Lecture
 * 2:00 - 2:45 [Lightning Talks](week-2/lightning-talks.md)
 * 3:00 - 7:00 Group Projects
