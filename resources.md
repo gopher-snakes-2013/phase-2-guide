@@ -11,8 +11,8 @@
 
 ## Week 3
 
-### Ruby Web Apps 
-####Sinatra 
+### Ruby Web Apps
+####Sinatra
 1. [Singing With Sinatra, Parts 1-3](http://net.tutsplus.com/tutorials/ruby/singing-with-sinatra/), :level_1, :tutorial
 1. [Sinatra](http://www.sinatrarb.com), :level_1, :documentation
 1. [Designing With Class: Sinatra + PostgreSQL + Heroku](http://mherman.org/blog/2013/06/08/designing-with-class-sinatra-plus-postgresql-plus-heroku/), :level_1, :tutorial
@@ -32,7 +32,7 @@
 
 #### Environment
 1. [Environment Variables in Ruby](http://ruby.about.com/od/rubyfeatures/a/envvar.htm), :level_2, :tutorial
-1. [$LOAD_PATH](http://selfless-singleton.rickwinfrey.com/2012/12/20/-rubys-load-path/), :documentation, :level_2 
+1. [$LOAD_PATH](http://selfless-singleton.rickwinfrey.com/2012/12/20/-rubys-load-path/), :documentation, :level_2
 1. [Gemfiles](http://bundler.io/v1.3/gemfile.html) , :level_1
 
 #### Heroku
@@ -67,6 +67,7 @@
 ### HTML and CSS
 1. [Build a Simple Website](http://teamtreehouse.com/library/websites/build-a-simple-website), :level_1, :tutorial
 1. [Learn HTML and CSS](http://teamtreehouse.com/learning-adventures/learn-html-and-css), :level_1, :tutorial
+1. [Dash HTML/CSS Tutorial](https://dash.generalassemb.ly/), :level_1, :tutorial
 1. [A Beginners Guide to HTML and CSS](http://learn.shayhowe.com/), :level_1, :tutorial
 1. [An Advanced Guide to HTML and CSS](http://learn.shayhowe.com/),:level_2, :tutorial
 1. [semantic markup](http://www.webstyleguide.com/wsg3/5-site-structure/2-semantic-markup.html), :level_1

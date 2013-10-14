@@ -31,3 +31,22 @@ finally gettin the hang of rspec & Arrange Act Assert (thanks alek) & the red gr
 |      :+1:      |  :+1: 75%     | :+1: 60%  |:boom::+1: 75% | :+1:         |:stuck_out_tongue::+1:    |
 
 really enjoying the am time of search inside yourself. it's nice to settle into the day with some calm & reflection.
+
+## fridayfriday - 10.11
+
+| Coders Mindset | Testing & TDD | Debugging | Ruby Webapps  | ActiveRecord | HTML & CSS               |
+| -------------- | ------------- | --------- | ------------- | ------------ | ------------------------ |
+|      :+1:      |  :+1: 75%     | :+1: 60%  |:boom::+1: 75% | :+1:         |:stuck_out_tongue::+1:    |
+
+it's been a good week. happy about the group project outcome, although we didn't get to user authentication. something to explore this weekend!
+i need to be more patient when working with others.
+
+## WEEKEND - 10.12,13
+
+| Coders Mindset | Testing & TDD | Debugging | Ruby Webapps  | ActiveRecord | HTML & CSS               |
+| -------------- | ------------- | --------- | ------------- | ------------ | ------------------------ |
+|      :+1:      |  :+1: 80%     | :+1: 60%  |:boom::+1: !!  | :+1:         |:stuck_out_tongue::+1:    |
+
+craigslist: https://github.com/natatat/challenge-craigslist-jr
+
+exercism #1: http://exercism.io/natatat/javascript/bob
