@@ -82,9 +82,10 @@
 1. [MDN Javascript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) - in particular: 'Working With Objects'
 1. [MDN JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 1. Team Treehouses: [Javascript Foundations](http://teamtreehouse.com/library/websites/javascript-foundations)
-1. Understanding [this](http://trephine.org/t/index.php?title=Understanding_JavaScript%27s_this_keyword) and [call and apply](http://trephine.org/t/index.php?title=JavaScript_call_and_apply) 
+1. Understanding [this](http://trephine.org/t/index.php?title=Understanding_JavaScript%27s_this_keyword) and [call and apply](http://trephine.org/t/index.php?title=JavaScript_call_and_apply)
 1. Justin Searls video : [javascript testing tactics](https://speakerdeck.com/searls/javascript-testing-tactics)
 1. [exercism.io JavaScript](exercism.io/setup/javascript),:level_2, :tutorial
+1. [Javascript Cheat Sheet](http://wps.aw.com/wps/media/objects/2234/2287950/javascript_refererence.pdf)
 
 
 ### Jasmine
