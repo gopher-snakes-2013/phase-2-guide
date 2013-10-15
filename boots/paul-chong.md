@@ -51,3 +51,12 @@ Journal Entries:
 |   :+1:     	 | 		 :punch: | 	:+1:	 |   :+1: 		|    :+1: 	   |   :smiley: |
 
 
+#4 Week Two, Day One
+- Improved understanding of basic JS - prep over weekend consolidated
+- Jasmine syntax understanding increased from zero.  Similarities with Rspec was a relief
+- Intention is to continue working through prep materials to supplement formal classes
+
+| Coders Mindset | Testing & TDD | Debugging | Ruby Webapps | ActiveRecord | HTML & CSS |
+| -------------- | ------------- | --------- | ------------ | ------------ | ---------- |
+|   	:+1:     	 | 		 :punch:	 | 		:+1:	 |  	 :punch:	|    :+1: 	   |   :smiley: |
+
