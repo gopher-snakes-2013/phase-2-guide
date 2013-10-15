@@ -63,14 +63,14 @@
 
 ####Tuesday
 * 9:00 EI 
-* 9:30 - 11:30 Pair on challenges.
+* 9:30 - 11:30 Pair on [Orange Trees]((../../../challenge-orange-trees)).
 * 11:30 - 12:30 Lecture
 * 2:00 - 2:45 [Lightning Talks](week-2/lightning-talks.md)
 * 3:00 - 7:00 Group Project
 * 6:00 - Mentor Night
 
 ####Wednesday
-* 9:00 -11:00 Pair on challenges.
+* 9:00 -11:00 Pair on [jQuery Hacker](week-2/challenges/challenge-jquery-hacker.md).
 * 11:00 - 12:30 EE with Karim
 * 2:00 - 2:45 [Lightning Talks](week-2/lightning-talks.md)
 * 3:00 - 7:00 Group Projects
