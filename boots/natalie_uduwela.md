@@ -50,3 +50,11 @@ i need to be more patient when working with others.
 craigslist: https://github.com/natatat/challenge-craigslist-jr
 
 exercism #1: http://exercism.io/natatat/javascript/bob
+
+## monday - 10.14
+
+| Coders Mindset | JS the Language | Testing JS | Debugging JS | JS for Web Apps |
+| -------------- | --------------- | ---------- | ------------ | --------------- |
+|    :+1:        |                 |            |              |                 |
+
+javascreeeeept! stoked about it. it like how it's so barebonez, how there isn't any fancy and it's just straight up. es real.
