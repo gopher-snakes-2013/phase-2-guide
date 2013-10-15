@@ -41,7 +41,7 @@ Today I learned a lot about RSpec and am getting more comfortable using it.
 
 
 # Phase 2, Day 6 - Monday, October 14th
-Today I learned a lot about RSpec and am getting more comfortable using it.
+Today I learned how to setup a standalone Jasmine test and the directories that are created when calling Jasmine init.
 
 | Coders Mindset | Javascript Language |  Testing Javascript | Debugging Javascript | Javascript for Web Apps |
 | -------------- |    -------------    |   ----------------  |   -----------------  | ----------------------- |
