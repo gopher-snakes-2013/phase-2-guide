@@ -39,3 +39,11 @@ Today I learned a lot about RSpec and am getting more comfortable using it.
 | -------------- | ------------- |  --------- | ------------ | ------------ | ---------- |
 | .7 :cookie:    | .6 :cookie:   | .8 :cookie:| .8 :cookie:  | .7 :cookie:  | .7 :cookie:|
 
+
+# Phase 2, Day 6 - Monday, October 14th
+Today I learned a lot about RSpec and am getting more comfortable using it.
+
+| Coders Mindset | Javascript Language |  Testing Javascript | Debugging Javascript | Javascript for Web Apps |
+| -------------- |    -------------    |   ----------------  |   -----------------  | ----------------------- |
+| .7 :cookie:    | .4 :cookie:         | .4 :cookie:         | .4 :cookie:          | .0 :cookie:             |
+
