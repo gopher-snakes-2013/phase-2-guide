@@ -62,5 +62,14 @@ I need more experience in developing using tests. started my own app today but g
 with postgres stuff. Today was fun and lacked a bunch of superE shinanigans.
 
 
+OCTOBER 15th 2013
+
+| Coders Mindset | JS the Language | Testing JS | Debugging JS | JS for Web Apps |
+| -------------- | --------------- | ---------- | ------------ | --------------- |
+|     -10 :+1:   |     -50 :+1:    |  -500 :+1: |  -200 :+1:   |     -500 :+1:   |
+
+object literals, contructors and prototypes. I can read javascript better and dont have an
+issue with jumping into MDN to find out how things work. It's nice to have JS feel less magical.
+No skills in testing at the moment and that's a bummer!
 
 
