@@ -11,6 +11,7 @@
 * [JavaScript Testing - Jasmine](#jasmine)
 * [JavaScript Frameworks and Libraries](#javascript-frameworks-and-libraries)
 * [Debugging JavaScript](#debugging-javascript)
+* [Front End Engineering](#front-end-engineering)
 
 ## Week 3
 
@@ -102,3 +103,7 @@
 1. Codeschool: [Dev Tools Course](https://www.codeschool.com/courses/discover-devtools)
 1. [Debug with Node](http://nodejs.org/api/debugger.html)
 
+
+## Front End Engineering
+* [So you want to be a front end
+  engineer?](https://speakerdeck.com/dmosher/so-you-want-to-be-a-front-end-engineer)
