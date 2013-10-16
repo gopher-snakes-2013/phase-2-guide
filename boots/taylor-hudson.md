@@ -1,4 +1,4 @@
-p2s2d2 10/15
+p2w2d2 10/15
 
 | Coders Mindset | JS the Language | Testing JS | Debugging JS | JS for Web Apps |
 | -------------- | --------------- | ---------- | ------------ | --------------- |
