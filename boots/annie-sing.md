@@ -31,6 +31,10 @@ I felt really good about the morning challenge today. I felt like I was doing a 
 The afternoon is also alright. It's hard working in teams, but we're trying to make it work. My pair and I managed to get some parts of a working interface up on the web.
 We're getting close to having an MVP for our first release.
 
+October 15th, 2013
+I've been feeling like I'm slowing down. I am afraid that I have gaps in my knowledge, but don't seem to have enough time to get through everything I want to get through.
+I think I'm in a good place though overall, just a bit of self-doubt is circulating. I think that once I build something on my own, and prove that I know what's up, I'll feel better.
+But for now, I like to think I'm doing alright. 
 
 | Coders Mindset| Test & TDD    | Debugging  | Ruby Webapps | ActiveRecord | HTML & CSS  |
 | ------------- |---------------| -----------|--------------|--------------| ------------|
