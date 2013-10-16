@@ -105,5 +105,6 @@
 
 
 ## Front End Engineering
-* [So you want to be a front end
-  engineer?](https://speakerdeck.com/dmosher/so-you-want-to-be-a-front-end-engineer)
+* So you want to be a front end engineer? -
+  [Slides](https://speakerdeck.com/dmosher/so-you-want-to-be-a-front-end-engineer)
+  [Video](http://www.youtube.com/watch?v=Lsg84NtJbmI)
