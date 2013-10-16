@@ -66,6 +66,7 @@
 * 9:30 - 11:30 Pair on [Orange Trees]((../../../challenge-orange-trees)).
 * 11:30 - 12:30 Lecture
 * 2:00 - 2:45 [Lightning Talks](week-2/lightning-talks.md)
+* 7:00 : Journal.
 * 3:00 - 7:00 Group Project
 * 6:00 - Mentor Night
 
@@ -73,6 +74,7 @@
 * 9:00 -11:00 Pair on [jQuery Hacker](week-2/challenges/challenge-jquery-hacker.md).
 * 11:00 - 12:30 EE with Karim
 * 2:00 - 2:45 [Lightning Talks](week-2/lightning-talks.md)
+* 5:30 - 5:45 [Setting up Jasmine](week-2/lectures/js-testing.md)
 * 3:00 - 7:00 Group Projects
 * 7:00 : Journal.
 * 7:30 - LATE :  Optimize your learning
