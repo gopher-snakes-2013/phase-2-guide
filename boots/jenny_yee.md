@@ -50,3 +50,53 @@ all the pieces fast enough to be able to build these things on my own.
 | Coders Mindset| Test & TDD    | Debugging  | Ruby Webapps | ActiveRecord | HTML & CSS  |
 | ------------- |---------------| -----------|--------------|--------------| ------------|
 | :+1:          | .25:+1:          |. 5:+1:     |.5:  :+1:     |    :+1:      | :+1:     |
+
+
+
+
+
+*WEEK TWO*
+
+*MONDAY*
+
+
+
+
+*TUESDAY*
+
+
+
+
+*WEDNESDAY*
+I'm feeling overwhelmed by JS and really not feeling like much is sinking in my head this week. 
+I think my brain has reached a point of exhaustion and am really trying to overcome this and not 
+just blank out. 
+
+I spent a lot of time this afternoon debugging our canvas HTML, which I'm not sure is super-helpful
+right now, since I don't feel like I have a basic grasp of how javascript works yet. 
+
+OUT OF 10
+| Coders Mindset | JS the Language | Testing JS | Debugging JS | JS for Web Apps |
+| -------------- | --------------- | ---------- | ------------ | --------------- |
+|       4         |     3            |    3        |    4          |      4           |
+
+
+
+
+*THURSDAY*
+
+
+
+OUT OF 10
+| Coders Mindset | JS the Language | Testing JS | Debugging JS | JS for Web Apps |
+| -------------- | --------------- | ---------- | ------------ | --------------- |
+|            
+
+*FRIDAY*
+
+
+
+OUT OF 10
+| Coders Mindset | JS the Language | Testing JS | Debugging JS | JS for Web Apps |
+| -------------- | --------------- | ---------- | ------------ | --------------- |
+|            
