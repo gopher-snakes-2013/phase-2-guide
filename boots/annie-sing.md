@@ -48,5 +48,5 @@ I can't expect myself to be proficient in a language in a day or two-- hopefully
 So, I feel better after reading those. I am not confident in my testing though. in fact, it makes me very nervous, so I need to work on that.
 | Coders Mindset| JS the language | testing jS  | debugging JS | JS for websites |
 | ------------- |-----------------|-------------|--------------|-----------------| 
-| :+1   1.5     | :+1:    1.25    |   .25       |    .75       | :+1:  .95       |
+| :+1:   1.5    | :+1:    1.25    |   0.25      |    0.75      |  0.95           |
 
