@@ -15,3 +15,11 @@ TDD is still like learning a new language to me.  Which means, syntax is hard fo
 Building a skeleton is still difficult with some reference.  I'm fairly okay with what ActiveRecord does with the "easy" things
 I have previous HTML & CSS experience so if you ask me to code up a photoshop file with column and grid layouts I"ll be able to do it
 without some bootstrap, albeit, bootstrap does make it easy.  Most of my efforts are on testing.
+
+Day 3
+
+| Coders Mindset |	Testing & TDD |	Debugging |	Ruby Webapps | ActiveRecord	| HTML & CSS |
+|----------------|----------------|-----------|--------------|--------------|------------|
+|      +2 thumb  |       +.5      |    +1.5   |     2.00     |    +1.75     |  +:+1::gem:|
+
+
