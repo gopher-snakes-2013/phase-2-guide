@@ -1,5 +1,3 @@
-**PHASE TWO**
-
 *WEEK ONE*
 
 *MONDAY*
@@ -55,7 +53,7 @@ all the pieces fast enough to be able to build these things on my own.
 
 
 
-*WEEK TWO*
+**WEEK TWO**
 
 *MONDAY*
 
@@ -76,11 +74,11 @@ I spent a lot of time this afternoon debugging our canvas HTML, which I'm not su
 right now, since I don't feel like I have a basic grasp of how javascript works yet. 
 
 OUT OF 10
+
+
 | Coders Mindset | JS the Language | Testing JS | Debugging JS | JS for Web Apps |
 | -------------- | --------------- | ---------- | ------------ | --------------- |
-|       4         |     3            |    3        |    4          |      4           |
-
-
+| 2              | 1               | 1          | 2            | 2               |       
 
 
 *THURSDAY*
@@ -88,15 +86,21 @@ OUT OF 10
 
 
 OUT OF 10
+
+
+
 | Coders Mindset | JS the Language | Testing JS | Debugging JS | JS for Web Apps |
 | -------------- | --------------- | ---------- | ------------ | --------------- |
-|            
+|                |                 |            |              |                 |       
+                  
 
 *FRIDAY*
 
 
 
 OUT OF 10
+
 | Coders Mindset | JS the Language | Testing JS | Debugging JS | JS for Web Apps |
 | -------------- | --------------- | ---------- | ------------ | --------------- |
-|            
+|                |                 |            |              |                 |       
+          
