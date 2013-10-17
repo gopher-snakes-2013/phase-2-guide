@@ -48,10 +48,18 @@ Today I learned how to setup a standalone Jasmine test and the directories that 
 | .7 :cookie:    | .4 :cookie:         | .4 :cookie:         | .4 :cookie:          | .0 :cookie:             |
 
 
-# Phase 2, Day 7 - Monday, October 15th
+# Phase 2, Day 7 - Tuesday, October 15th
 Today my understanding of Javascript improved by spending several hours trying to fix a bug on our group project - that still isn't fixed. But the time spent on it really taught me a lot.
 
 | Coders Mindset | Javascript Language |  Testing Javascript | Debugging Javascript | Javascript for Web Apps |
 | -------------- |    -------------    |   ----------------  |   -----------------  | ----------------------- |
 | .7 :cookie:    | .5 :cookie:         | .4 :cookie:         | .5 :cookie:          | .2 :cookie:             |
+
+
+# Phase 2, Day 8 - Wednesday, October 16th
+Today I learned about touchevents in Javascript and interacting with the canvas.
+
+| Coders Mindset | Javascript Language |  Testing Javascript | Debugging Javascript | Javascript for Web Apps |
+| -------------- |    -------------    |   ----------------  |   -----------------  | ----------------------- |
+| .7 :cookie:    | .6 :cookie:         | .5 :cookie:         | .6 :cookie:          | .4 :cookie:             |
 
