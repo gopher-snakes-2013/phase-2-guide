@@ -62,4 +62,3 @@ Today I learned about touchevents in Javascript and interacting with the canvas.
 | Coders Mindset | Javascript Language |  Testing Javascript | Debugging Javascript | Javascript for Web Apps |
 | -------------- |    -------------    |   ----------------  |   -----------------  | ----------------------- |
 | .7 :cookie:    | .6 :cookie:         | .5 :cookie:         | .6 :cookie:          | .4 :cookie:             |
-
