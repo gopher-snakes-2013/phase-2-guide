@@ -2,7 +2,7 @@ Phase 2 Day 1
 
 | Coders Mindset | Testing & TDD | Debugging   | Ruby Webapps | ActiveRecord | HTML & CSS   |
 | -------------- | ------------- | ---------   | ------------ | ------------ | ----------   |
-|  :punch:		 | :cold_sweat:	 | :punch:	   |:raised_hand: | :raised_hand:| :heart:		|
+|  :punch:		 | :cold_sweat:	   | :punch:	   |:raised_hand: | :raised_hand:| :heart:		  |
 
 
 Today, I learnt how to integreate Rspec into Sinatra (http://net.tutsplus.com/tutorials/ruby/how-to-integrate-rspec-into-a-sinatra-app/). However, up until now I have not done any Rspec and so I need to do an actual tutorial on the syntax etc. of Rspec.
@@ -144,7 +144,7 @@ F'ing love pseudo selectors!
 
 MONDAY:
 
-Braindead. Last week I was sick and I didn't sleep much. Guess it caught up to me finally. After class I was staring at the screen trying to do some more JS work but gave up around 10 pm. Went home as an angry, frustrated, brainless zombie, wanting to feast on 'em livin. And stuff.
+Braindead. Last week I was sick and I didn't sleep much. Guess this lack of sleep caught up to me finally. After class I was staring at the screen trying to do some more JS work but gave up around 10 pm. Went home as an angry, frustrated, brainless zombie, wanting to feast on 'em livin. And stuff.
 
 TUESDAY:
 
@@ -152,10 +152,19 @@ Great day. Morning challenge was great and actually, all in all, felt surprising
 After class, I finally caught up on Treehouse and I like the lectures.
 
 
+____________________________________________________________________
 
 
+Phase 2 Week 2 Day 3
 
+| Coders Mindset | JS the Language | Testing JS | Debugging JS | JS for Web Apps |
+| -------------- | --------------- | ---------- | ------------ | --------------- |
+|  :punch:       |  :bow:          |  :bow:     |    :bow:     |   :bow:         |
 
+Btw. I pretty much don't update the emojis because
+
+I am beginning to grasp the power of JS. I love playing with it and feel relatively comfortable reading and writing it. Generally, expressing my thoughts/ breaking down stuff (coder's mindset) is improving every day. I have not yet spent too much time with testing unfortunately, so I am shaky on the syntax but felt okay doing the challenges that involved Jasmine so far. Debugging JS is going ok – thanks to console and dev tools in Chrome and Firebug in FF.
+JS for webapps: Love team orphan_snakes and our product. Having a great time and learning a shitload. Today, Zee gave us a lightspeed intro to cleaning up our JS code into "OOP js". Also, we finished our algorithm/ logic on calculating accuracy and comparing user input and the given text file. gTomorrow: testing and refactor and adding the StarWars intro crawl I built.
 
 
 
