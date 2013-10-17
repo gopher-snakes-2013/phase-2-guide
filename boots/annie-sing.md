@@ -46,7 +46,8 @@ October 16th, 2013
 Today I acutally read the learning goals, and have realized that I'm in a good place actually. I've found that the expectations I set for myself are a bit too ambitious right now.
 I can't expect myself to be proficient in a language in a day or two-- hopefully somewhat comfortable, but not proficient.
 So, I feel better after reading those. I am not confident in my testing though. in fact, it makes me very nervous, so I need to work on that.
+
 | Coders Mindset| JS the language | testing jS  | debugging JS | JS for websites |
-| ------------- |-----------------|-------------|--------------|-----------------| 
+| ------------- | ----------------|-------------|--------------|-----------------| 
 | :+1:   1.5    | :+1:    1.25    |   0.25      |    0.75      |  0.95           |
 
