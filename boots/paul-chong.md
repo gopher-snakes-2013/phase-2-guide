@@ -48,7 +48,7 @@ Journal Entries:
 
 | Coders Mindset | Testing & TDD | Debugging | Ruby Webapps | ActiveRecord | HTML & CSS |
 | -------------- | ------------- | --------- | ------------ | ------------ | ---------- |
-|   :+1:     	 | 		 :punch: | 	:+1:	 |   :+1: 		|    :+1: 	   |   :smiley: |
+|   :+1:     	 	 | 		 :punch: 	 | 	:+1:		 |   :+1: 			|    :+1: 	   |   :smiley: |
 
 
 #6 Week Two, Day One
@@ -56,7 +56,7 @@ Journal Entries:
 - Jasmine syntax understanding increased from zero.  Similarities with Rspec was a relief
 - Intention is to continue working through prep materials to supplement formal classes
 
-| Coders Mindset | Testing & TDD | Debugging | Ruby Webapps | ActiveRecord | HTML & CSS |
+| Debugging JS | JS for Web App | JS Language | Testing JS | ActiveRecord | HTML & CSS |
 | -------------- | ------------- | --------- | ------------ | ------------ | ---------- |
 |   	:+1:     	 | 		 :punch:	 | 		:+1:	 |  	 :punch:	|    :+1: 	   |   :smiley: |
 
@@ -66,8 +66,28 @@ Journal Entries:
 - Applying Jasmine, good to be learning in parallel with JS
 - Tomorrow's focus is to push forward with group project
 
-| Coders Mindset | Testing & TDD | Debugging | Ruby/JS Webapps | ActiveRecord | HTML & CSS |
-| -------------- | ------------- | --------- | --------------- | ------------ | ---------- |
-|   	:+1:     	 | 		 :punch:	 | 		:+1:	 |  	 :punch:		 |    :+1: 	    |   :smiley: |
+| Coders Mindset | Debugging JS | JS for Web App | JS Language | Testing JS |
+| -------------- | ------------ | -------------- | ----------- | ---------- |
+|   	:+1:     	 | 	 :punch:	  | 			:+1:		 |  :punch:		 |    :+1:    |
 
+
+#8 Week Two, Day Three
+- Learnt how to reference variables in DOM to JS file
+- Consolidated skills in capybara and rspec
+- Tomorrow's focus is to push forward with group project and ajax
+
+| Coders Mindset | Debugging JS | JS for Web App | JS Language | Testing JS |
+| -------------- | ------------ | -------------- | ----------- | ---------- |
+|   	:+1:     	 | 	 :punch:	  | 			:+1:		 |  :punch:		 |    :+1:    |
+
+
+#9 Week Two, Day Four
+- Learnt how to reference variables in DOM to JS file
+- Consolidated skills in capybara and rspec
+- Tomorrow's focus is to push forward with group project and ajax
+
+
+| Coders Mindset | Debugging JS | JS for Web App | JS Language | Testing JS |
+| -------------- | ------------ | -------------- | ----------- | ---------- |
+|   	:+1:     	 | 	 :punch:	  | 		:punch:		 |  :punch:		 |    :+1:    |
 
