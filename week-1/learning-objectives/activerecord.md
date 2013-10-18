@@ -32,9 +32,7 @@ You'll be using ActiveRecord throughout your time here; so know it well.
    [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)
 
 ## :+1: :+1: :+1:
-1. I use
-[scopes](http://guides.rubyonrails.org/active_record_querying.html#scopes) to
-keep `where`'s out of my code.
+1.  
 1. I have used another ORM (i.e. datamapper or sequel)
 1. I've written a simple ORM from scratch
 
