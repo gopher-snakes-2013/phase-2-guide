@@ -17,9 +17,24 @@ Solidify your learning on one or more of your week 1 and week 2 learning objecti
 * Journal your learning - discuss how your code / coding process illustrates each objective.
 
 1. Challenge : [RESTful CRUD](http://socrates.devbootcamp.com/challenges/395)
-
+  * I've created migrations and models
+  * I've used 
+   [sinatra-activrecord](https://github.com/janko-m/sinatra-activerecord) to
+   integrate activerecord and sinatra
+  * I've written [custom
+   validations](http://guides.rubyonrails.org/active_record_validations.html#performing-custom-validations)
+   * I can create a single model CRUD sinatra application and deploy it to Heroku
+   * I've handled form input with post routes
+   * I've used the route string to define `params`
 1. Challenge : [Active Record](http://socrates.devbootcamp.com/challenges/390)
+  * I've defined `belongs_to` and `has_many` relationships
+  * I can use relations to [create](http://api.rubyonrails.org/classes/ActiveRecord/Relation.html#method-i-create) elements within a set as well as form the basis for other interactions with the [query interface](http://guides.rubyonrails.org/active_record_querying.html)
+  * I use [scopes](http://guides.rubyonrails.org/active_record_querying.html#scopes) to keep `where`'s out of my code.
 1. Challenge : [Authentication and Authorization](http://socrates.devbootcamp.com/challenges/391)
+  * I can draw the [request/response cycle](http://devhub.fm/http-requestresponse-basics/), and fill in more information when prompted
+  * I've used `session` to store data between requests
+  * I've written a useful helper method and used it in both a route and a view
+  * I've used [bcrypt](http://bcrypt-ruby.rubyforge.org/) to encrypt passwords to keep them secret even from people who have access to the database.
 1. Challenge : [Validations - Server to Client](http://socrates.devbootcamp.com/challenges/398)
 1. Challenge : [Client Server Scoping](http://socrates.devbootcamp.com/challenges/399)
 1. Challenge : [CSS Layout](http://socrates.devbootcamp.com/challenges/392)
@@ -48,6 +63,7 @@ Solidify your learning on one or more of your week 1 and week 2 learning objecti
    the JSON
   * I use MustacheJS or underscores templating library to convert JSON to HTML
 1. Challenge : [OO JS Racer](http://socrates.devbootcamp.com/challenges/297)
+
 
 
 
