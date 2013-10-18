@@ -12,9 +12,6 @@ that provides a standard interface for:
 1. Binding and triggering events
 1. Making AJAX requests
 
-While jQuery has some serious flaws, it's pretty much everywhere and should be
-learned in spite of how awful it is.
-
 ## :+1:
 1. I can use jQuery to retrieve elements from the DOM using CSS selectors
 1. I can use jQuery's [traversal methods](http://api.jquery.com/category/traversing/)
