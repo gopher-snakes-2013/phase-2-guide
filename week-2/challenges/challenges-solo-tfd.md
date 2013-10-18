@@ -36,7 +36,27 @@ Solidify your learning on one or more of your week 1 and week 2 learning objecti
   * I've written a useful helper method and used it in both a route and a view
   * I've used [bcrypt](http://bcrypt-ruby.rubyforge.org/) to encrypt passwords to keep them secret even from people who have access to the database.
 1. Challenge : [Validations - Server to Client](http://socrates.devbootcamp.com/challenges/398)
+  * I've used the route string to define params
+  * I can use relations to
+   [create](http://api.rubyonrails.org/classes/ActiveRecord/Relation.html#method-i-create)
+   elements within a set as well as form the basis for other interactions with the
+   [query interface](http://guides.rubyonrails.org/active_record_querying.html)
+  * I've written [custom
+   validations](http://guides.rubyonrails.org/active_record_validations.html#performing-custom-validations)
+  * I've retrieved validation errors from a models `errors` method
+  * I use JavaScript to display server side errors to the client.
+  * I use JavaScript to validate user input before sending a request to the server. 
+  * I can iterate over arrays and objects in JavaScript
+
 1. Challenge : [Client Server Scoping](http://socrates.devbootcamp.com/challenges/399)
+  * I can draw the [request/response
+   cycle](http://devhub.fm/http-requestresponse-basics/), and fill in more
+   information when prompted
+  * I've handled form input with post routes
+  * I've used the route string to define params
+  * I've used `session` to store data between requests
+  * I've written a useful helper method and used it in both a route and a view
+
 1. Challenge : [CSS Layout](http://socrates.devbootcamp.com/challenges/392)
   * I can clearly explain the two different roles that HTML and CSS play
   * I use [semantic markup](http://www.webstyleguide.com/wsg3/5-site-structure/2-semantic-markup.html)to separate my visual presentation from my document structure
@@ -50,11 +70,13 @@ Solidify your learning on one or more of your week 1 and week 2 learning objecti
    selectors
   * I've used [CSS3 transitions](http://net.tutsplus.com/tutorials/html-css-techniques/css-fundametals-css-3-transitions/)
   * I'm comfortable using the different css `position` and `display` formats.
-1. Challenge : [AJAX and jQuery](http://socrates.devbootcamp.com/challenges/400)
+1. Challenge : [AJAX and jQuery](http://socrates.devbootcamp.com/challenges/394)
   * I can use jQuery to retrieve elements from the DOM using CSS selectors
   * I can bind events to elements I've pulled from the DOM
   * I can trigger events on elements I've pulled from the DOM
-1. Challenge : [JavaScript Dynamic Elements and Events](http://socrates.devbootcamp.com/challenges/395)
+  * I use AJAX to retrieve JSON from the server and then modify the page based on the JSON
+
+1. Challenge : [JavaScript Dynamic Elements and Events](http://socrates.devbootcamp.com/challenges/400)
   * I use jQuery to implement Event Delegation with the `on` function
   * I separate my view concerns from my data verification concerns
   * I use AJAX to retrieve partials from the server and replace or append
@@ -63,6 +85,13 @@ Solidify your learning on one or more of your week 1 and week 2 learning objecti
    the JSON
   * I use MustacheJS or underscores templating library to convert JSON to HTML
 1. Challenge : [OO JS Racer](http://socrates.devbootcamp.com/challenges/297)
+  * I can use jQuery to retrieve elements from the DOM using CSS selectors
+  * I can use jQuery's [traversal methods](http://api.jquery.com/category/traversing/) to find elements relative to the given element
+  * I can bind events to elements I've pulled from the DOM
+  * I can trigger events on elements I've pulled from the DOM
+  * I can use jQuery to append and replace elements on the page
+
+
 
 
 
