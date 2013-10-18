@@ -17,7 +17,7 @@ I have previous HTML & CSS experience so if you ask me to code up a photoshop fi
 without some bootstrap, albeit, bootstrap does make it easy.  Most of my efforts are on testing.
 
 
-Week 3
+Week 2
 
 | Coders Mindset |	Testing & TDD |	Debugging |	Ruby Webapps | ActiveRecord	| HTML & CSS |
 |----------------|----------------|-----------|--------------|--------------|------------|
@@ -35,4 +35,9 @@ I want to learn all the cool things like Backbone, Ember, and Angular, and Node.
 Other than that...Sinatra is fine, simple ActiveRecord things are is fine.  DOM stuff...with time is fine, still takes time.
 OO JS is 'okay'.
 
+
+Week 2 - Thursday 
+
+AJAX was not cool.  I'm forgot the high-level concept after intercepting an AJAX request.  Not sure what to do after that.  
+HELP.  Other than that, I think it's easy.  
 
