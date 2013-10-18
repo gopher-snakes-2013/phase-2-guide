@@ -41,5 +41,17 @@ forth. I feel better about testing generally but I think writiing good tests is 
 tough. I feel a little better about Active Record and sinatra but wish I would've had some more
 time during the day to try some more HTML/CSS with my group. 
 
+Week 2 Day 1 Monday
 
+| Coders Mindset |	Testing & TDD |	Debugging |	Ruby Webapps | ActiveRecord	| HTML & CSS |
+|----------------|----------------|-----------|--------------|--------------|------------|
+|      0.5      |       +0       |    +0     |      +0       |    +1        |    +0      |
+Not a bad day. beat my head against javascript for a while and still don't know much but it
+isn't so discouraging. I'm looking forward to getting better at it and doing some cool things 
+with it in our group projects for type racer. 
 
+Week 2 Day 3 Wednesday
+
+Things are going alright. Haven't been too productive in the nights after group projects but 
+I feel like I'm getting to flex my skills and learn a lot from the morning challenges and
+from what I'm learning and doing in my group project.

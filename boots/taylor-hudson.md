@@ -1,4 +1,26 @@
-p2w1d3 10/9
+p2w2d4 10/17
+
+| Coders Mindset | JS the Language | Testing JS | Debugging JS | JS for Web Apps |
+| -------------- | --------------- | ---------- | ------------ | --------------- |
+|   0.8:+1:      |   0.5:+1:       |  0.3:+1:   |   0.3:+1:    |   0.2:+1:       |
+Feel like I'm getting better at reading Javascript and understanding how it passes
+functions and events. Conceptually, I don't find JQuery and AJAX that hard but
+there are a lot of details to keep track of.
+
+
+p2w2d2 10/15
+
+| Coders Mindset | JS the Language | Testing JS | Debugging JS | JS for Web Apps |
+| -------------- | --------------- | ---------- | ------------ | --------------- |
+|   0.8:+1:      |   0.4:+1:       |  0.1:+1:   |   0.1:+1:    |   0.1:+1:       |
+
+I got a crash course in Jasmine tests and how to write Javascript constructors
+with the OrangeTree exercise, and learned about how to use JS event handlers
+to draw on an HTML5 canvas. I feel like I'm learning lots of little bits and pieces
+about things but find it hard to see the broader picture of any one of the
+technologies we're learning.
+
+p2w1d4 10/10
 
 
 | Coders Mindset | Testing & TDD | Debugging | Ruby Webapps | ActiveRecord | HTML & CSS |
