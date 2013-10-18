@@ -1,3 +1,13 @@
+p2w2d4 10/17
+
+| Coders Mindset | JS the Language | Testing JS | Debugging JS | JS for Web Apps |
+| -------------- | --------------- | ---------- | ------------ | --------------- |
+|   0.8:+1:      |   0.5:+1:       |  0.3:+1:   |   0.3:+1:    |   0.2:+1:       |
+Feel like I'm getting better at reading Javascript and understanding how it passes
+functions and events. Conceptually, I don't find JQuery and AJAX that hard but
+there are a lot of details to keep track of.
+
+
 p2w2d2 10/15
 
 | Coders Mindset | JS the Language | Testing JS | Debugging JS | JS for Web Apps |
