@@ -70,3 +70,11 @@ Today I learned .toDataURL and how to use it to save the current state of a canv
 | Coders Mindset | Javascript Language |  Testing Javascript | Debugging Javascript | Javascript for Web Apps |
 | -------------- |    -------------    |   ----------------  |   -----------------  | ----------------------- |
 | .7 :cookie:    | .8 :cookie:         | .6 :cookie:         | .7 :cookie:          | .6 :cookie:             |
+
+
+# Phase 2, Day 10 - Friday, October 18th
+Today the fog I had around AJAX lifted.
+
+| Coders Mindset | Javascript Language |  Testing Javascript | Debugging Javascript | Javascript for Web Apps |
+| -------------- |    -------------    |   ----------------  |   -----------------  | ----------------------- |
+| 1 :cookie:     | .9 :cookie:         | .6 :cookie:         |  1 :cookie:          |  1 :cookie:             |
