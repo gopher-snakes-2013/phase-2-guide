@@ -38,7 +38,7 @@ Journal Entries:
 
 | Coders Mindset | Testing & TDD | Debugging | Ruby Webapps | ActiveRecord | HTML & CSS |
 | -------------- | ------------- | --------- | ------------ | ------------ | ---------- |
-|   :+1:     	 | 		 :punch: | 		+1	 |   :+1: 		|    :+1: 	   |   :smiley: |
+|   :+1:     		 | 		 :punch: 	 | 		+1	 	 |   :+1: 			|    :+1: 	   |   :smiley: |
 
 
 #5 Week One, Day Five
@@ -91,3 +91,12 @@ Journal Entries:
 | -------------- | ------------ | -------------- | ----------- | ---------- |
 |   	:+1:     	 | 	 :punch:	  | 		:punch:		 |  :punch:		 |    :+1:    |
 
+#10 Week Two, Day Five
+- Covered Ajax - happy with the progress here
+- Learnt more JS, especially regarding syntax and object creation
+- This weekend is focused on closing gaps in JS - HTML interactions
+
+
+| Coders Mindset | Debugging JS | JS for Web App | JS Language | Testing JS |
+| -------------- | ------------ | -------------- | ----------- | ---------- |
+|   	:+1:     	 | 	 :punch:	  | 		:punch:		 |  :punch:		 |    :punch: |
