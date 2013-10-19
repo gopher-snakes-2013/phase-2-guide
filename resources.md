@@ -15,6 +15,10 @@
 
 ## Week 3
 
+## Soft Skills
+1. [Code Review](http://blog.codeclimate.com/blog/2013/10/09/unexpected-outcomes-of-code-reviews/?utm_source=Code+Climate&utm_campaign=ef73e7adfa-newsletter-2013-10&utm_medium=email&utm_term=0_672a7f5529-ef73e7adfa-318096897), from Zee
+1. [Coding Interview Tips](http://www.interviewcake.com/tips-and-tricks), from Paul
+
 ### Ruby Web Apps
 ####Sinatra
 1. [Singing With Sinatra, Parts 1-3](http://net.tutsplus.com/tutorials/ruby/singing-with-sinatra/), :level_1, :tutorial
@@ -87,6 +91,7 @@
 1. Justin Searls video : [javascript testing tactics](https://speakerdeck.com/searls/javascript-testing-tactics)
 1. [exercism.io JavaScript](exercism.io/setup/javascript),:level_2, :tutorial
 1. [Javascript Cheat Sheet](http://wps.aw.com/wps/media/objects/2234/2287950/javascript_refererence.pdf)
+1. [Good Habits](http://enterprisejquery.com/2010/10/how-good-c-habits-can-encourage-bad-javascript-habits-part-1/), :level_2?, from Matt
 
 
 ### Jasmine
