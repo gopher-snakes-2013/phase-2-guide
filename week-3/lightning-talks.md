@@ -1,11 +1,3 @@
-# Week 3 Lightning Talks
-## Monday
-## Tuesday
-## Wednesday
+# Lightning Talks
 
-## Thursday
-
-## Friday
-
-## Available Talks
-* See Thunder
+See [Thunder](http://gopher-snakes-2013-thunder.herokuapp.com/)
