@@ -167,12 +167,30 @@ I am beginning to grasp the power of JS. I love playing with it and feel relativ
 JS for webapps: Love team orphan_snakes and our product. Having a great time and learning a shitload. Today, Zee gave us a lightspeed intro to cleaning up our JS code into "OOP js". Also, we finished our algorithm/ logic on calculating accuracy and comparing user input and the given text file. gTomorrow: testing and refactor and adding the StarWars intro crawl I built.
 
 
+____________________________________________________________________
 
 
+Phase 2 Week 2 Day 4 and 5
+
+| Coders Mindset | JS the Language | Testing JS | Debugging JS | JS for Web Apps |
+| -------------- | --------------- | ---------- | ------------ | --------------- |
+|  :punch:       |  :bow:          |  :bow:     |    :bow:     |   :bow:         |
 
 
+We refactored our code into as-clean-as-we-re-capable-of object-oriented JavaScript, finished and deployed our Typeracer:
 
+starwarsracer.herokuapp.com
 
+So awesome. And grateful for the amazing feedback we have gotten so far.
+Group project was aaaawesome. Learnt so much, great team, and finally, there is an actual app on those Interwebs!
+
+Also, I really enjoyed the solo catch-up day on Friday (would have needed more time though!) and the challenges we were offered to solidify our knowledge; in the past two weeks we have been introduced to so many different things that I find it difficult to see where I am at. I am learning to cope with accepting the fact that I only have time to glance at subjects and not fully understand them. I feel confident though that I am learning enough that I am prepared to dive in after DBC!
+
+____________________________________________________________________
+
+Phase 2 WeekEND #2
+
+When I am presented a problem in programming, I often feel overwhelmed with how to start; once I have moved beyond this initial feeling of superego panic, I am doing alright. Today, I built and designed a to-do list app (RESTful CRUD) from the ground, dove back into Active Record and did some JS. Had a blast.
 
 
 
