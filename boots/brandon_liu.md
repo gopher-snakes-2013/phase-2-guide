@@ -55,3 +55,15 @@ Week 2 Day 3 Wednesday
 Things are going alright. Haven't been too productive in the nights after group projects but 
 I feel like I'm getting to flex my skills and learn a lot from the morning challenges and
 from what I'm learning and doing in my group project.
+
+Week 2 Day 5 Friday
+
+| Coders Mindset |	Testing & TDD |	Debugging |	Ruby Webapps | ActiveRecord	| HTML & CSS |
+|----------------|----------------|-----------|--------------|--------------|------------|
+|      0.5      |       -1       |    +1     |      +0       |       +1     |    +0      |
+
+Friday was alright. The morning was nice to solo and have the opportunity to try and check
+out and go through exercises for things we may not have gotten to during the week but I 
+tried to tackle bcrypt and that was really tough. On the bright side our group project
+actually went really well and I had a ton of fun working all week with my group on type
+racer and am really proud to have had a nice finished product at the end of the week.
