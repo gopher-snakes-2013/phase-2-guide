@@ -8,5 +8,6 @@ See [Thunder](http://gopher-snakes-2013-thunder.herokuapp.com/)
 * [Canvas Storing Images (by : Doodle Snakes)](lightning-talks/by-doodle-snakes.md)
 * [ (by : Doodle Poodles)](lightning-talks/by-doodle-poodles.md)
 * [by Snapkins](lightning-talks/by-snapkins.md)
+* [by Orphan Snakes](lightning-talks/by-orphan-snakes.md)
 
 
