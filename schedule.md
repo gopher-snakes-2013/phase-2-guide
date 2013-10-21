@@ -105,46 +105,48 @@
 
 ### Week 6: [Major Learning Objectives for this week](week-3/learning-objectives.md)
 
-####Monday:
-* 9:00 EI 
-* 9:30 - 12:30 Pair on Challenges
+#### Monday:
+* 9:00 EI
+* 9:30 - 12:30 Zero-to-Tweety
 * 2:00 Group Project Presentations : [Week 2 Team Project - Code Presentations](week-2/group-projects.md/#presentation)
 * 5:30 : Standup
 * 3:00 - 7:00 : Group Project
 * 7:00 : Journal.
-* 7:30 - LATE : Optimize your learning
+* 7:15 - Late: Optimize your learning
 
-####Tuesday
-* 9:00 EI 
-* 9:30 - 11:30 Pair on Challenges.
+#### Tuesday
+* 9:00 EI
+* 9:30 - 11:30 Pair on [Faker-Lite](week-3/challenges/faker-lite.md)
 * 11:30 - 12:30 Lecture
 * 2:00 - 2:45 [Lightning Talks](week-3/lightning-talks.md)
-* 7:00 : Journal.
 * 3:00 - 7:00 Group Project
+* 7:00 : Journal.
+* 7:15 - Late: Optimize your learning
 
-####Wednesday
-* 9:00 EI 
-* 9:30 - 11:30 Pair on Challenges.
+#### Wednesday
+* 9:00 EI
+* 9:30 - 11:30 Pair on [Unraveling the OAuth Onion](../../../challenge-the-oauth-onion).
 * 11:30 - 12:30 Lecture
 * 2:00 - 2:45 [Lightning Talks](week-3/lightning-talks.md)
-* 7:00 : Journal.
 * 3:00 - 7:00 Group Project
+* 7:00: Journal.
+* 7:15 - Late: Optimize your learning
 
-####Thursday
-* 9:00 EI 
-* 9:30 - 11:30 Pair on Challenges / ASSESSMENT
+#### Thursday
+* 9:00 EI
+* 9:30 - 11:30 Opt-in Assessment / Solo TFD
 * 11:30 - 12:30 Lecture
 * 2:00 - 2:45 [Lightning Talks](week-3/lightning-talks.md)
-* 7:00 : Journal.
 * 3:00 - 7:00 Group Project
-
-####Friday
-* 9:00 Group Checkins 
-* 9:30 - 11:30 Pair on Challenges.
-* 11:30 - 12:30 Lecture
-* 2:00 - 2:45 [Lightning Talks](week-3/lightning-talks.md)
-* 3:00 GRADUATION!!
-* 4:00 Retrospective
-* 3:00 - 7:00 Group Projects
 * 7:00 : Journal.
-* 7:30 - LATE :  Optimize your learning
+* 7:15 - Late: Optimize your learning
+
+#### Friday
+* 9:00: Group Checkins
+* 9:30 - 10:30:  [Distributed Retro](https://docs.google.com/a/devbootcamp.com/document/d/1W4TOvjJJQp9ZOEz_oHuwRShI7vWauOiDp12jGlioZjM/edit)
+* 10:30 - 4:30: Group Projects
+* 4:30: GRADUATION!!
+* 5:00 - 5:45: Demos!
+* 5:45 Check-out
+* 6:00: Journal
+* 6:30 - LATE:  Get Crunk
