@@ -82,7 +82,7 @@
 ####Thursday
 * 9:00 EI 
 * 9:30 - 11:30 Pair on [AJAXify Todos](../../../challenge-ajax-todos).
-* 11:30 - 12:30 Lecture
+* 11:30 - 12:30 Lecture [AJAX](https://gist.github.com/dbc-challenges/0f31c091db0a6d042bc2)
 * 2:00 - 2:45 [Lightning Talks](week-2/lightning-talks.md)
 * 3:00 - 7:00 Group Projects
 * 7:00 : Journal.
@@ -101,3 +101,50 @@
 ####Weekend
 * Do [Prep for Week 6](week-3.md#prep).
 
+
+
+### Week 6: [Major Learning Objectives for this week](week-3/learning-objectives.md)
+
+####Monday:
+* 9:00 EI 
+* 9:30 - 12:30 Pair on Challenges
+* 2:00 Group Project Presentations : [Week 2 Team Project - Code Presentations](week-2/group-projects.md/#presentation)
+* 5:30 : Standup
+* 3:00 - 7:00 : Group Project
+* 7:00 : Journal.
+* 7:30 - LATE : Optimize your learning
+
+####Tuesday
+* 9:00 EI 
+* 9:30 - 11:30 Pair on Challenges.
+* 11:30 - 12:30 Lecture
+* 2:00 - 2:45 [Lightning Talks](week-3/lightning-talks.md)
+* 7:00 : Journal.
+* 3:00 - 7:00 Group Project
+
+####Wednesday
+* 9:00 EI 
+* 9:30 - 11:30 Pair on Challenges.
+* 11:30 - 12:30 Lecture
+* 2:00 - 2:45 [Lightning Talks](week-3/lightning-talks.md)
+* 7:00 : Journal.
+* 3:00 - 7:00 Group Project
+
+####Thursday
+* 9:00 EI 
+* 9:30 - 11:30 Pair on Challenges / ASSESSMENT
+* 11:30 - 12:30 Lecture
+* 2:00 - 2:45 [Lightning Talks](week-3/lightning-talks.md)
+* 7:00 : Journal.
+* 3:00 - 7:00 Group Project
+
+####Friday
+* 9:00 Group Checkins 
+* 9:30 - 11:30 Pair on Challenges.
+* 11:30 - 12:30 Lecture
+* 2:00 - 2:45 [Lightning Talks](week-3/lightning-talks.md)
+* 3:00 GRADUATION!!
+* 4:00 Retrospective
+* 3:00 - 7:00 Group Projects
+* 7:00 : Journal.
+* 7:30 - LATE :  Optimize your learning
