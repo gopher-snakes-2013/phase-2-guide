@@ -21,3 +21,15 @@ Much better day today. Really felt like a lot of my work was coming together and
 |     1.2:+1:    |    1.8:+1:      |  1.4:+1:   |   0.6:+1:    |    0:+1:        |
 
 Having a really good time this week, but extremely tired. Probably still geting over whatever I had last week. Javascript is proving to be relatively tame compared to DOM manipulation and the dual monster of HTML/CSS.
+
+##Monday, October 21
+
+| Coders Mindset | External APIs |  Testing & TDD | Debugging | Ruby Webapps |
+| -------------- | ------------- |  ------------- | --------- | ------------ |
+|   1.6:+1:      |    0.6:+1:    |      1.3:+1:   | 2.1:+1:   |   2.2:+1:    |
+
+| ActiveRecord | HTML & CSS | JS the Language | Testing JS | Debugging JS | JS for Webapps |
+| ------------ | ---------- | --------------- | ---------- | ------------ | -------------- |
+|   2.2:+1:    |  0.4:+1:   |   1.9:+1:       |   1.6:+1:  |    2.1:+1:   |   0.3:+1:      |
+
+Was sort of blown away by the Twitter API earlier today, but it turned out to be less complicated than I thought. Also, I am still a little unsure about my skill level when it comes to DOM interaction, jQuery, and HTML/CSS. These are my weak points, and I keep running to JavaScript to hide my ignorance. More portfolio challenges and interactive tutorial videos are definitely in store during the evenings. 

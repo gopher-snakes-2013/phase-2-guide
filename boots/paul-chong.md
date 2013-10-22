@@ -56,9 +56,9 @@ Journal Entries:
 - Jasmine syntax understanding increased from zero.  Similarities with Rspec was a relief
 - Intention is to continue working through prep materials to supplement formal classes
 
-| Debugging JS | JS for Web App | JS Language | Testing JS | ActiveRecord | HTML & CSS |
-| -------------- | ------------- | --------- | ------------ | ------------ | ---------- |
-|   	:+1:     	 | 		 :punch:	 | 		:+1:	 |  	 :punch:	|    :+1: 	   |   :smiley: |
+| Debugging JS 	 | JS for Web App| JS Language| Testing JS | ActiveRecord | HTML & CSS |
+| -------------- | ------------- | ---------- | ---------- | ------------ | ---------- |
+|   	:+1:     	 | 		 :punch:	 | 		:+1:	  |  	 :punch: |     :+1: 	  |   :smiley: |
 
 
 #7 Week Two, Day Two
@@ -100,3 +100,17 @@ Journal Entries:
 | Coders Mindset | Debugging JS | JS for Web App | JS Language | Testing JS |
 | -------------- | ------------ | -------------- | ----------- | ---------- |
 |   	:+1:     	 | 	 :punch:	  | 		:punch:		 |  :punch:		 |    :punch: |
+
+
+#11 Week Three, Day One
+- Intro to OmniAuth and external APIs in general - mroe work needed here
+- Continued to progress skills on ruby web apps and JS
+- Interested in building knowledge on integrating external APIs
+
+| Coders Mindset | Debugging JS | JS for Web App | JS Language | Testing JS |
+| -------------- | ------------ | -------------- | ----------- | ---------- |
+|   	:+1:     	 | 	 :punch:	  | 		:punch:		 |  :punch:		 |    :punch: |
+
+|  Active Record | External APIs| Testing & TDD  | Ruby Webapps| HTML & CSS |
+| -------------- | ------------ | -------------- | ----------- | ---------- |
+|   	:+1:     	 | 	 :punch:	  | 		:punch:		 |  	:+1:		 |    :punch: |
