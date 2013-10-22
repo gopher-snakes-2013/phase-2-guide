@@ -78,3 +78,15 @@ Today the fog I had around AJAX lifted.
 | Coders Mindset | Javascript Language |  Testing Javascript | Debugging Javascript | Javascript for Web Apps |
 | -------------- |    -------------    |   ----------------  |   -----------------  | ----------------------- |
 | 1 :cookie:     | .9 :cookie:         | .6 :cookie:         |  1 :cookie:          |  1 :cookie:             |
+
+
+# Phase 2, Day 11 - Monday, October 21th
+Today I learned how to use OmniAuth and Twitter API to post a tweet from my app.
+
+| Coders Mindset | External APIs |  Testing & TDD | Debugging | Ruby Webapps |
+| -------------- | ------------- |  ------------- | --------- | ------------ |
+| 1.2 :cookie:   | .5 :cookie:   |  .6 :cookie:   | 1 :cookie:| .9 :cookie:  |
+
+| ActiveRecord | HTML & CSS | JS the Language | Testing JS | Debugging JS | JS for Webapps |
+| ------------ | ---------- | --------------- | ---------- | ------------ | -------------- |
+| .9 :cookie:  | .9 :cookie:| .9 :cookie:     | .6 :cookie:| 1 :cookie:   | 1 :cookie:     |
