@@ -67,3 +67,14 @@ out and go through exercises for things we may not have gotten to during the wee
 tried to tackle bcrypt and that was really tough. On the bright side our group project
 actually went really well and I had a ton of fun working all week with my group on type
 racer and am really proud to have had a nice finished product at the end of the week.
+
+Week 3 Day 1 Monday
+
+| Coders Mindset |	Testing & TDD |	Debugging |	Ruby Webapps | ActiveRecord	| HTML & CSS |
+|----------------|----------------|-----------|--------------|--------------|------------|
+|      0.5      |         0       |    +1     |      +0     |       +1     |    +0      |
+
+Monday has been ok. Oauth is cool/confusing. I'm excited about group projects, I love music
+and I'm super stoked to be working on a music app with some cool people I haven't gotten to
+work with much yet. Hopefully I'll catch up with some of the learning gaps I have from the 
+past 2 weeks.
