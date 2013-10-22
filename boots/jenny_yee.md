@@ -105,4 +105,33 @@ OUT OF 10
 | Coders Mindset | JS the Language | Testing JS | Debugging JS | JS for Web Apps |
 | -------------- | --------------- | ---------- | ------------ | --------------- |
 |                |                 |            |              |                 |       
-          
+
+
+** PHASE 2 WEEK 3 **
+https://github.com/gopher-snakes-2013/phase-2-guide/blob/master/week-3/learning-objectives.md
+
+*MONDAY*
+
+| Coders Mindset | External APIs |  Testing & TDD | Debugging | Ruby Webapps |
+| -------------- | ------------- |  ------------- | --------- | ------------ |
+|   .4           |   .1          |   .4           |   .6      |   1.6        |
+
+| ActiveRecord | HTML & CSS | JS the Language | Testing JS | Debugging JS | JS for Webapps |
+| ------------ | ---------- | --------------- | ---------- | ------------ | -------------- |
+|   1.8        |  1.2       |   1.2           |    .1      |   1.3        |  1.4           |
+
+Today/Last night we covered: 
+* Intro to APIs using Omniauth
+* OO Javascript racer + OO Orange Tree - this helped me better understand jquery and OO js and interactions with the browser. 
+* Bcrypt - I got tanked by this. I want to get this down tonight. 
+
+I definitely feel more comfortable with ajax, epecially after Friday solo day where I drilled down on AJAX.
+
+Tonight I want to move the needle on:
+* Ruby for Webapps - Working through (1) bcrypt challenge and (2) figuring out .env and databases.
+* Testing & TDD - Create tests while working through bcrypt challenge
+
+
+
+
+
