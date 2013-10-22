@@ -193,4 +193,51 @@ Phase 2 WeekEND #2
 When I am presented a problem in programming, I often feel overwhelmed with how to start; once I have moved beyond this initial feeling of superego panic, I am doing alright. Today, I built and designed a to-do list app (RESTful CRUD) from the ground, dove back into Active Record and did some JS. Had a blast.
 
 
+____________________________________________________________________
+
+
+Week 3 Day 1:
+
+| Coders Mindset | External APIs |  Testing & TDD | Debugging | Ruby Webapps |
+| -------------- | ------------- |  ------------- | --------- | ------------ |
+| 5/10           | 1/10          |  4/10          | 6/10      | 5/10         |
+
+| ActiveRecord | HTML & CSS | JS the Language | Testing JS | Debugging JS | JS for Webapps |
+| ------------ | ---------- | --------------- | ---------- | ------------ | -------------- |
+| 5/10         | 9/10       | 4/10            | 3/10       | 6/10         | 4/10           |
+
+
+I love the idea of building FROM user stories and incrementally expand an app.
+
+External APIs: introduced today, do not know a lot about them.
+
+Testing and TDD: ok, however it is difficult to decide what should be tested and what not.
+And this counts for Rspec, Jasmine and Capybara. I like testing and totally but into the idea behind testing though.
+
+Ruby Webapps and Active R.: pretty good. Refreshing my memory on the weekend was important and helpful!
+
+JS: I feel like I can read and understand most code but lack actual execution, i.e. writing JS. Want to do e.g. JS Racer.
+
+Debugging JS and Rspec: ok. The more practice the better; and since I fuck up often, there are plenty opportunities to improve.
+
+
+My definite weak point right now: AJAX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
