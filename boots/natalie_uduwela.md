@@ -58,3 +58,11 @@ exercism #1: http://exercism.io/natatat/javascript/bob
 |    :+1:        |                 |            |              |                 |
 
 javascreeeeept! stoked about it. it like how it's so barebonez, how there isn't any fancy and it's just straight up. es real.
+
+## monday - 10.21
+
+| Coders Mindset | JS the Language | Testing JS | Debugging JS | JS for Web Apps |
+| -------------- | --------------- | ---------- | ------------ | --------------- |
+|     :+1:       |           :+1:  |  60% :+1:  |    50% :+1:  |      50% :+1:   |
+
+sorry i failed at journaling last week!! :-1: this morning was good - got our 'app' to post a tweet using the twitter_oauth gem. super excited about our group project & diving into d3.
