@@ -41,3 +41,17 @@ Week 2 - Thursday
 AJAX was not cool.  I'm forgot the high-level concept after intercepting an AJAX request.  Not sure what to do after that.  
 HELP.  Other than that, I think it's easy.  
 
+
+Week 3 - Monday
+
+| Coders Mindset |	Testing & TDD |	Debugging |	Ruby Webapps | ActiveRecord	| HTML & CSS |
+|----------------|----------------|-----------|--------------|--------------|------------|
+|      +2 thumb  |       +1.5     |    +1.5   |     2.0      |    +2.00     |    +2      |
+
+
+I think these are all fairly accurate.  My knowlegde of HTML and CSS were in the form of floats for some divs and columns
+and Josh Maramount said not to use floats for clomuns, instead use block-inline instead of flight left and right.  I think that's the right syntax.
+
+OmniAuth and Twitter wasn't too bad.  Jeff and I pretty much managed to figure it out.  I still really good about it.  On a sace
+of one to 10.  I feel about a 8 on Ommi auth.
+
