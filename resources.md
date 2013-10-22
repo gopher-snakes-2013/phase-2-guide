@@ -42,6 +42,7 @@
 1. [Environment Variables in Ruby](http://ruby.about.com/od/rubyfeatures/a/envvar.htm), :level_2, :tutorial
 1. [$LOAD_PATH](http://selfless-singleton.rickwinfrey.com/2012/12/20/-rubys-load-path/), :documentation, :level_2
 1. [Gemfiles](http://bundler.io/v1.3/gemfile.html) , :level_1
+1. [Managing Secret Data in Open Source Projects](https://gist.github.com/ndelage/7026164)
 
 #### Heroku
 1. [Heroku and Ruby Version](https://devcenter.heroku.com/articles/getting-started-with-ruby#specify-ruby-version-and-declare-dependencies-with-a-gemfile), :level_2
