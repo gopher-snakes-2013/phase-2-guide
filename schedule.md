@@ -134,7 +134,7 @@
 
 #### Thursday
 * 9:00 EI
-* 9:30 - 11:30 Opt-in Assessment / Solo TFD
+* 9:30 - 11:30 [Opt-in Assessment](assessment.md) / Solo TFD
 * 11:30 - 12:30 Lecture
 * 2:00 - 2:45 [Lightning Talks](week-3/lightning-talks.md)
 * 3:00 - 7:00 Group Project
