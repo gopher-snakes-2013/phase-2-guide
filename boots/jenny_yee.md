@@ -132,6 +132,20 @@ Tonight I want to move the needle on:
 * Testing & TDD - Create tests while working through bcrypt challenge
 
 
+*TUESDAY*
+
+| Coders Mindset | External APIs |  Testing & TDD | Debugging | Ruby Webapps |
+| -------------- | ------------- |  ------------- | --------- | ------------ |
+|   .4           |   .1          |   .4           |   .6      |   1.6        |
+
+| ActiveRecord | HTML & CSS | JS the Language | Testing JS | Debugging JS | JS for Webapps |
+| ------------ | ---------- | --------------- | ---------- | ------------ | -------------- |
+|   1.8        |  1.2       |   1.2           |    .1      |   1.3        |  1.4           |
 
 
+Today I covered: 
+* Making gem files - I felt like I understood the basic architecture.
+* Making forms and using javascript and sessions.
+* Read through code for authentication and validation.
 
+I'm feeling a little more comfortable with routes. External APIs are still a myster for me though. 
