@@ -114,3 +114,18 @@ Journal Entries:
 |  Active Record | External APIs| Testing & TDD  | Ruby Webapps| HTML & CSS |
 | -------------- | ------------ | -------------- | ----------- | ---------- |
 |   	:+1:     	 | 	 :punch:	  | 		:punch:		 |  	:+1:		 |    :punch: |
+
+
+#12 Week Three, Day Two
+- Covered how to push a gem to ruby - process is well documented online
+- Worked through another Twitter Auth API example - much clearer now
+- Figured out how .env works, and well as .gitignore
+- Continue practicing general web app skills and TDD
+
+| Coders Mindset | Debugging JS | JS for Web App | JS Language | Testing JS |
+| -------------- | ------------ | -------------- | ----------- | ---------- |
+|   	:+1:     	 | 	 :punch:	  | 		:punch:		 |  :punch:		 |    :punch: |
+
+|  Active Record | External APIs| Testing & TDD  | Ruby Webapps| HTML & CSS |
+| -------------- | ------------ | -------------- | ----------- | ---------- |
+|   	:+1:     	 | 	 :+1:	  | 		:punch:		 |  	:+1:		 |    :punch: |
