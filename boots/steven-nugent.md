@@ -90,3 +90,15 @@ Today I learned how to use OmniAuth and Twitter API to post a tweet from my app.
 | ActiveRecord | HTML & CSS | JS the Language | Testing JS | Debugging JS | JS for Webapps |
 | ------------ | ---------- | --------------- | ---------- | ------------ | -------------- |
 | .9 :cookie:  | .9 :cookie:| .9 :cookie:     | .6 :cookie:| 1 :cookie:   | 1 :cookie:     |
+
+
+# Phase 2, Day 12 - Tuesday, October 22nd
+Today I learned how to make a gem.
+
+| Coders Mindset | External APIs |  Testing & TDD | Debugging   | Ruby Webapps |
+| -------------- | ------------- |  ------------- | ---------   | ------------ |
+| 1.5 :cookie:   | .5 :cookie:   |  1 :cookie:    | 1.6 :cookie:| 1.4 :cookie: |
+
+| ActiveRecord | HTML & CSS | JS the Language | Testing JS | Debugging JS | JS for Webapps |
+| ------------ | ---------- | --------------- | ---------- | ------------ | -------------- |
+| 1 :cookie:   | 1 :cookie: | .9 :cookie:     | .6 :cookie:| 1 :cookie:   | 1 :cookie:     |
