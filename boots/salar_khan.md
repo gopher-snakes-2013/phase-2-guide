@@ -55,3 +55,26 @@ JTR and i sat down later on monday night and went through an HTML5 tutorial, bro
 
 tuesday resulted in us playing with jquery for some syntactic sugar regarding eventhandlers. paul had to bounce at 4 cause he was feeling sick, which sucked. however. we got our app up onto heroku, created our sinatra routes, database, yadda yadda. super productive. i let my team know that i felt uncomfortable with what was going on underneath the jquery sugar, so i sat down at night with cricket and broke it down into raw JS, while commenting out every line of code so that paul can read it when he gets back. i feel way way way better about eventhandlers now. woop!
 
+##WEEKEND2
+| Coders Mindset | JS Language   | Testing JS | Debugging JS | JS WebApps  |
+| -------------- | ------------- | ---------  | ------------ | ----------- |
+|   5/8, 1/8     |    6/6,2/6    |   2/10     |   4/7        | 4/5,2/6     |
+
+what a fantastic weekend. first day i went through the CRUD portfolio challenge, which made reinforced a lot of my sinatra/routes knowledge. felt good. late at night, i was looking for an exercise to do that involved pure JS, and rao said "why don't you do typeracer? i bet you could finish it in a weekend." at first, i was like "yeah right, fuck that". then i thought about it for a few minutes, and thought "wait a second. fuck you, rao", and i dove into it. by sunday evening, i had well over half of the project handled. then i went to watch gravity in IMAX. that was sweet.
+
+i feel super strong in JS now. forreal. pretty sure i want to work in a JS shop when i bounce outta here, possibly learning backbone/node in phase 4. only problem is, i haven't written a single jasmine test for typeracer cause i cant get it to play nice with me. ugh.
+
+
+##WEEK3 M/Tu
+| Coders Mindset | JS Language   | Testing JS | Debugging JS | JS WebApps  |
+| -------------- | ------------- | ---------  | ------------ | ----------- |
+|   6/8, 2/8     |    6/6,2/6    |   2/10     |   4/7        | 4/5,2/6     |
+
+| Coders Mindset | JS Language   | Testing JS | Debugging JS | JS WebApps  |
+| -------------- | ------------- | ---------  | ------------ | ----------- |
+|   6/8, 2/8     |    6/6,2/6    |   2/10     |   4/7        | 4/5,2/6     |
+
+didn't get to work on typeracer at all, which sucks. i really want to finish it, it's tantalizzing meeeee. on the other hand, our group is FANTASTIC, and our project is super interesting. we'll hopefully have MVP up by tomorrow!! it's been 2 days and i've already played with oauth, iframes, and APIs for the group project. dirtyhipsters for life.
+
+after the gem exercise today, digging into the soundcloud gem (the first gem i've ever seen the innards of) definitely made me less scared of tinkering with gems. 
+
