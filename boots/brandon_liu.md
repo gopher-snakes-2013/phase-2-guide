@@ -78,3 +78,14 @@ Monday has been ok. Oauth is cool/confusing. I'm excited about group projects, I
 and I'm super stoked to be working on a music app with some cool people I haven't gotten to
 work with much yet. Hopefully I'll catch up with some of the learning gaps I have from the 
 past 2 weeks.
+
+Week 3 Day 2 Tuesday
+
+| Coders Mindset |	Testing & TDD |	Debugging |	Ruby Webapps | ActiveRecord	| HTML & CSS |
+|----------------|----------------|-----------|--------------|--------------|------------|
+|      0.5      |         0       |    +1     |      +1     |       +1      |    +0      |
+
+Tuesday went alright. making a gem in the morning was cool and gave me a little better insight
+into how gems work and somewhat demystified them. In group projects we made a ton of progress today.
+The soundcloud api is pretty sweet and decently documented. I'm a little worried about not knowing
+enough to move on to phase 3 but at the same time feel ok, its strange. 
