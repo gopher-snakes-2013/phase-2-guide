@@ -32,4 +32,16 @@ Having a really good time this week, but extremely tired. Probably still geting 
 | ------------ | ---------- | --------------- | ---------- | ------------ | -------------- |
 |   2.2:+1:    |  0.4:+1:   |   1.9:+1:       |   1.6:+1:  |    2.1:+1:   |   0.3:+1:      |
 
-Was sort of blown away by the Twitter API earlier today, but it turned out to be less complicated than I thought. Also, I am still a little unsure about my skill level when it comes to DOM interaction, jQuery, and HTML/CSS. These are my weak points, and I keep running to JavaScript to hide my ignorance. More portfolio challenges and interactive tutorial videos are definitely in store during the evenings. 
+Was sort of blown away by the Twitter API earlier today, but it turned out to be less complicated than I thought. Also, I am still a little unsure about my skill level when it comes to DOM interaction, jQuery, and HTML/CSS. These are my weak points, and I keep running to JavaScript to hide my ignorance. More portfolio challenges and interactive tutorial videos are definitely in store during the evenings.
+
+##Tuesday, October 22
+
+| Coders Mindset | External APIs |  Testing & TDD | Debugging | Ruby Webapps |
+| -------------- | ------------- |  ------------- | --------- | ------------ |
+|   1.6:+1:      |    0.6:+1:    |      1.4:+1:   | 1.8:+1:   |   2.3:+1:    |
+
+| ActiveRecord | HTML & CSS | JS the Language | Testing JS | Debugging JS | JS for Webapps |
+| ------------ | ---------- | --------------- | ---------- | ------------ | -------------- |
+|   2.4:+1:    |  0.9:+1:   |   2.1:+1:       |   1.9:+1:  |    1.8:+1:   |   0.3:+1:      |
+
+Feeling good about today. I had some doubts as to whether I should continue on to Phase 3, but after talking with several fellow boots, I feel much better about my feelings of uncertainty. I think that discomfort (and feeling comfortable with discomfort) is a big part of DBC, and I didn't really have to learn that lesson in Phase 1. Putting some more time into HTML/CSS tonight; tomorrow is going to be a JS for Webapps day.
