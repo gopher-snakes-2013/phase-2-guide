@@ -66,3 +66,11 @@ javascreeeeept! stoked about it. it like how it's so barebonez, how there isn't 
 |     :+1:       |           :+1:  |  60% :+1:  |    50% :+1:  |      50% :+1:   |
 
 sorry i failed at journaling last week!! :-1: this morning was good - got our 'app' to post a tweet using the twitter_oauth gem. super excited about our group project & diving into d3.
+
+## weds - 10.23
+
+| Coders Mindset | JS the Language | Testing JS | Debugging JS | JS for Web Apps |
+| -------------- | --------------- | ---------- | ------------ | --------------- |
+| :+1:..:+1::+1:?|           :+1:  |  50% :+1:  |    50% :+1:  |      70% :+1:   |
+
+cray ajax d3 day. group proj is going well. data incorporation tomorrow! haven't twerked too hard on advancing my learning this week, i plan on just getting mo sleep.
