@@ -207,7 +207,7 @@ Week 3 Day 1:
 | 5/10         | 9/10       | 4/10            | 3/10       | 6/10         | 4/10           |
 
 
-I love the idea of building FROM user stories and incrementally expand an app.
+I love the idea of building FROM user stories to incrementally expand an app.
 
 External APIs: introduced today, do not know a lot about them.
 
@@ -224,14 +224,27 @@ Debugging JS and Rspec: ok. The more practice the better; and since I fuck up of
 My definite weak point right now: AJAX
 
 
+____________________________________________________________________
 
 
+Week 3 Day 2 and 3:
+
+| Coders Mindset | External APIs |  Testing & TDD | Debugging | Ruby Webapps |
+| -------------- | ------------- |  ------------- | --------- | ------------ |
+| 5/10           | 5/10          |  4/10          | 6/10      | 5/10         |
+
+| ActiveRecord | HTML & CSS | JS the Language | Testing JS | Debugging JS | JS for Webapps |
+| ------------ | ---------- | --------------- | ---------- | ------------ | -------------- |
+| 5/10         | 9/10       | 4/10            | 3/10       | 6/10         | 4/10           |
 
 
+Yesterday (TUE) we made a gem. :D
 
+Learned so much about APIs. From NOTHING (Monday) to realizing how suprisingly straightforward it is to implement OmniAuth.  Also Facebook's API is great; it's awesome and kinda scary how much (and how easily) data we can access and store.
 
+Today (Wednesday) I learned once again how crucial it is to invest time in naming your shit. Debugging two
 
-
+Group project was awesome: finally got an ajax call to work and I understood what the heck was going on. Boum!
 
 
 
