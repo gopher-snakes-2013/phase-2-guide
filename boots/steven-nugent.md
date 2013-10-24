@@ -102,3 +102,16 @@ Today I learned how to make a gem.
 | ActiveRecord | HTML & CSS | JS the Language | Testing JS | Debugging JS | JS for Webapps |
 | ------------ | ---------- | --------------- | ---------- | ------------ | -------------- |
 | 1 :cookie:   | 1 :cookie: | .9 :cookie:     | .6 :cookie:| 1 :cookie:   | 1 :cookie:     |
+
+
+# Phase 2, Day 13 - Wednesday, October 23rd
+Today I learned the pain of bad naming and not showing intent.
+
+| Coders Mindset | External APIs |  Testing & TDD | Debugging   | Ruby Webapps |
+| -------------- | ------------- |  ------------- | ---------   | ------------ |
+| 1.7 :cookie:   | .6 :cookie:   |  1 :cookie:    | 1.7 :cookie:| 1.6 :cookie: |
+
+| ActiveRecord | HTML & CSS | JS the Language | Testing JS | Debugging JS | JS for Webapps |
+| ------------ | ---------- | --------------- | ---------- | ------------ | -------------- |
+| 1 :cookie:   | 1 :cookie: | 1.2 :cookie:    | .6 :cookie:| 1 :cookie:   | 1 :cookie:     |
+
