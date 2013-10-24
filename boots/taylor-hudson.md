@@ -1,3 +1,18 @@
+p2w3d3 10/23
+
+| Coders Mindset | External APIs |  Testing & TDD | Debugging | Ruby Webapps |
+| -------------- | ------------- |  ------------- | --------- | ------------ |
+|   1.3:+1:      |    0.8:+1:    |     1.1:+1:    |   0.6:+1: |  1.4:+1:     |
+
+| ActiveRecord | HTML & CSS | JS the Language | Testing JS | Debugging JS | JS for Webapps |
+| ------------ | ---------- | --------------- | ---------- | ------------ | -------------- |
+|  1.2:+1:     |  0.9:+1:   |   0.8:+1:       |   0.3:+1:  |   0.5:+1:    |   0.6:+1:      |
+
+I learned some approaches to refactoring and how to use modules and include to separate
+out useful functionality. I learned how to use partials with Sinatra to control what is 
+displayed on a web page based on Ruby logic.
+
+
 p2w2d4 10/17
 
 | Coders Mindset | JS the Language | Testing JS | Debugging JS | JS for Web Apps |
