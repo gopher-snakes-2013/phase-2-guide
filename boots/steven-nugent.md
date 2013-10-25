@@ -115,3 +115,15 @@ Today I learned the pain of bad naming and not showing intent.
 | ------------ | ---------- | --------------- | ---------- | ------------ | -------------- |
 | 1 :cookie:   | 1 :cookie: | 1.2 :cookie:    | .6 :cookie:| 1 :cookie:   | 1 :cookie:     |
 
+
+# Phase 2, Day 14 - Thursday, October 24th
+Today was a Javascript/CSS heavy day. Nothing new I really learned, but helped confirm I know what I'm doing. 
+
+| Coders Mindset | External APIs |  Testing & TDD | Debugging   | Ruby Webapps |
+| -------------- | ------------- |  ------------- | ---------   | ------------ |
+| 1.9 :cookie:   | .8 :cookie:   |  1 :cookie:    | 1.8 :cookie:| 1.7 :cookie: |
+
+| ActiveRecord | HTML & CSS   | JS the Language | Testing JS | Debugging JS | JS for Webapps |
+| ------------ | ----------   | --------------- | ---------- | ------------ | -------------- |
+| 1 :cookie:   | 1.5 :cookie: | 1.4 :cookie:    | .6 :cookie:| 1.2 :cookie: | 1.2 :cookie:   |
+
